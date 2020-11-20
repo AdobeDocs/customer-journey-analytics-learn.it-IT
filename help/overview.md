@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: fb299e69c1a95322711a8fdd10bb8f96bc466d29
+source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 17%
@@ -31,17 +31,14 @@ Customer Journey Analytics consente di controllare come collegare i dati online 
 
 * **[Spostamento  segmenti Adobe Analytics in Customer Journey Analytics (video)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   <br>
    *Scopri come ricreare i segmenti Adobe Analytics  nel Customer Journey Analytics*
 
 * **[Sposta le metriche calcolate da  Adobe Analytics al Customer Journey Analytics (video)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   <br>
    *Scopri suggerimenti per ricreare  Metriche calcolate di Adobe Analytics nel Customer Journey Analytics*
 
 * **[Creare filtri per canali diversi (video)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   <br>
    *Creare filtri nel Customer Journey Analytics che utilizzano più origini dati e più canali*
 
 ## Prezzi del personale
