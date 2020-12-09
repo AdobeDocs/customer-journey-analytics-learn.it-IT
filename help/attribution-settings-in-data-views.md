@@ -1,17 +1,18 @@
 ---
 title: Impostazioni di attribuzione in Visualizzazioni dati nel Customer Journey Analytics
-description: Quando configuri Visualizzazioni dati nel Customer Journey Analytics, puoi scegliere le impostazioni di attribuzione per controllare in che modo dimensioni e metriche funzioneranno insieme. Questo video illustra i valori predefiniti, le opzioni e il modo in cui le impostazioni di attribuzione delle metriche e delle dimensioni interagiscono.
+description: Quando configuri Visualizzazioni dati in  Customer Journey Analytics di Adobi, puoi scegliere le impostazioni di attribuzione per controllare il funzionamento di dimensioni e metriche. Questo video illustra i valori predefiniti, le opzioni e il modo in cui le impostazioni di attribuzione delle metriche e delle dimensioni interagiscono.
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30185.jpg
 kt: 3959
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 1%
 
 ---
