@@ -1,17 +1,18 @@
 ---
 title: Connetti Customer Journey Analytics a Origini dati nella piattaforma
-description: L'Customer Journey Analytics (CJA) ti offre  Analysis Workspace sopra i set di dati di Adobe Experience Platform, per eseguire un'analisi multicanale dei tuoi dati. Questo video illustra come stabilire la connessione tra CJA e i set di dati della piattaforma, inclusa l'impostazione della connessione per lo streaming di dati in corso in CJA dalla piattaforma.
+description: ' Customer Journey Analytics di Adobe (CJA) ti offre  Analysis Workspace sopra i set di dati di Adobe Experience Platform, per eseguire analisi tra canali dei tuoi dati. Questo video illustra come stabilire la connessione tra CJA e i set di dati della piattaforma, inclusa l''impostazione della connessione per lo streaming di dati in corso in CJA dalla piattaforma.'
 feature: customer journey analytics
 topics: null
 audience: administrator, implementer, developer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30140.jpg
 kt: 3954
 translation-type: tm+mt
-source-git-commit: 747e5eeb51fbe5b8bf52469d1d40a45705cd3643
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '157'
 ht-degree: 8%
 
 ---
