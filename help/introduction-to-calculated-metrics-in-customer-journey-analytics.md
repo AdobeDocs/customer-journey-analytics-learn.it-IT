@@ -1,27 +1,28 @@
 ---
-title: Introduzione alle metriche calcolate nel Customer Journey Analytics
-description: In questo video, illustreremo le nozioni di base per la creazione di metriche calcolate in  Customer Journey Analytics Adobe.
-feature: customer journey analytics - calculated metrics
+title: Introduzione alle metriche calcolate in Customer Journey Analytics
+description: Questo video illustra le nozioni di base sulla creazione di metriche calcolate in Adobe Customer Journey Analytics.
+feature: Metriche
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31787.jpg
 kt: 4448
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 12%
+source-wordcount: '67'
+ht-degree: 13%
 
 ---
 
 
-# Introduzione al [!UICONTROL Calculated Metrics] Customer Journey Analytics
+# Introduzione a [!UICONTROL Calculated Metrics] in Customer Journey Analytics
 
-In questo video, ci illustreremo le nozioni di base della creazione [!UICONTROL Calculated Metrics] in Customer Journey Analytics.
+Questo video illustra le nozioni di base sulla creazione di [!UICONTROL Calculated Metrics] in Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12)
 
-Per ulteriori informazioni sull’Customer Journey Analytics, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
+Per ulteriori informazioni su Customer Journey Analytics, visita la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
