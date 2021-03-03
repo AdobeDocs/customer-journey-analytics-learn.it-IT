@@ -1,27 +1,28 @@
 ---
-title: Creare filtri tra canali nel Customer Journey Analytics
-description: In questo video viene illustrato come creare filtri in  Customer Journey Analytics di Adobe che utilizzano più origini dati e più canali. Vedrai anche come questi filtri possono essere combinati nelle visualizzazioni.
-feature: customer journey analytics
+title: Creare filtri tra canali in Customer Journey Analytics
+description: In questo video viene illustrato come creare filtri in Adobe Customer Journey Analytics che utilizzano più di un’origine dati e più di un canale. Vedrai anche come questi filtri possono essere combinati nelle visualizzazioni.
+feature: Filtri
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31983.jpg
 kt: 3962
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 7%
+source-wordcount: '107'
+ht-degree: 8%
 
 ---
 
 
-# Creare un [!UICONTROL Filters] Customer Journey Analytics multicanale
+# Creare contenuti cross-channel [!UICONTROL Filters] in Customer Journey Analytics
 
-In questo video viene illustrato come creare [!UICONTROL filters] in un Customer Journey Analytics che utilizza più origini dati e più canali. Vedrete anche come questi [!UICONTROL filters] possono essere combinati in [!UICONTROL visualizations].
+In questo video viene illustrato come creare [!UICONTROL filters] in Customer Journey Analytics che utilizza più di un’origine dati e più di un canale. Vedrai anche come questi [!UICONTROL filters] possono essere combinati in [!UICONTROL visualizations].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
 
-Per ulteriori informazioni sull’Customer Journey Analytics, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
+Per ulteriori informazioni su Customer Journey Analytics, visita la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
