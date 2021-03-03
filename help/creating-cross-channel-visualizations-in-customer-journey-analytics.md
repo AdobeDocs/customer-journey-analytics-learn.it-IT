@@ -1,27 +1,28 @@
 ---
-title: Creare visualizzazioni tra canali nel Customer Journey Analytics
-description: In questo video, scopri come  Customer Journey Analytics di Adobe ti consente di creare visualizzazioni che includono dati da più set di dati su più canali, inclusa l’unione dei dati per visitatore.
-feature: customer journey analytics
+title: Creare visualizzazioni cross-channel in Customer Journey Analytics
+description: In questo video, scopri come Adobe Customer Journey Analytics ti consente di creare visualizzazioni che includono dati da più set di dati su più canali, inclusa l’unione dei dati per visitatore.
+feature: Visualizzazioni
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 9%
+source-wordcount: '90'
+ht-degree: 10%
 
 ---
 
 
-# Creare un [!UICONTROL Visualizations] Customer Journey Analytics multicanale
+# Creare contenuti cross-channel [!UICONTROL Visualizations] in Customer Journey Analytics
 
-In this video, discover how Customer Journey Analytics allows you to create [!UICONTROL visualizations] that include data from multiple [!UICONTROL datasets] across multiple channels, including merging the data per [!UICONTROL visitor].
+In questo video, scopri come Customer Journey Analytics ti consente di creare [!UICONTROL visualizations] che includono dati da più [!UICONTROL datasets] su più canali, inclusa l’unione dei dati per [!UICONTROL visitor].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12)
 
-Per ulteriori informazioni sull’Customer Journey Analytics, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
+Per ulteriori informazioni su Customer Journey Analytics, visita la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
