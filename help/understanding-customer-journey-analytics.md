@@ -9,13 +9,13 @@ doc-type: presentation
 team: Technical Marketing
 thumbnail: 30090.jpg
 kt: 3953
-role: '"Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"'
+role: “Professionista, sviluppatore, tecnico specializzato dati, architetto, architetto dati, amministratore, responsabile”
 level: Principiante
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
