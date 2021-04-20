@@ -1,15 +1,15 @@
 ---
 title: Configurazione di base per le visualizzazioni dati in Customer Journey Analytics
 description: Dopo aver creato una connessione in Adobe Customer Journey Analytics ai set di dati in Adobe Experience Platform, è necessario creare una visualizzazione dati per tale connessione, in modo da poter utilizzare i dati in Analysis Workspace su Platform. Questo video illustra la configurazione di base di una visualizzazione dati.
-feature: Visualizzazioni dati
+feature: Data Views
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30186.jpg
 kt: 3958
-role: Amministratore
-level: Principiante
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

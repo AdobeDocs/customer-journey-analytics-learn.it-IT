@@ -1,15 +1,15 @@
 ---
 title: Creare filtri tra canali in Customer Journey Analytics
 description: In questo video viene illustrato come creare filtri in Adobe Customer Journey Analytics che utilizzano più di un’origine dati e più di un canale. Vedrai anche come questi filtri possono essere combinati nelle visualizzazioni.
-feature: Filtri
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31983.jpg
 kt: 3962
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

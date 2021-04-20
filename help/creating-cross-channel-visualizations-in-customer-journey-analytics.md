@@ -1,15 +1,15 @@
 ---
 title: Creare visualizzazioni cross-channel in Customer Journey Analytics
 description: In questo video, scopri come Adobe Customer Journey Analytics ti consente di creare visualizzazioni che includono dati da più set di dati su più canali, inclusa l’unione dei dati per visitatore.
-feature: Visualizzazioni
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

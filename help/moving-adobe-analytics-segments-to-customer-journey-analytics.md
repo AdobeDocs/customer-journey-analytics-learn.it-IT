@@ -1,16 +1,16 @@
 ---
 title: Spostare i segmenti di Adobe Analytics in Customer Journey Analytics
 description: Questo video offre suggerimenti per ricreare i segmenti Adobe Analytics sotto forma di "filtri" in Customer Journey Analytics.
-feature: Filtri
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31982.jpg
 kt: 3967
-topic: Migrazione
-role: Professionista
-level: Principiante
+topic: Migration
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

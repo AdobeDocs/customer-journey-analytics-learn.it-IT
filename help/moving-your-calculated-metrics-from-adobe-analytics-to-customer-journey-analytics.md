@@ -1,16 +1,16 @@
 ---
 title: Sposta le metriche calcolate da Adobe Analytics a Customer Journey Analytics
 description: In questo video, trova suggerimenti per ricreare le metriche calcolate di Adobe Analytics in Customer Journey Analytics.
-feature: Metriche
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31788.jpg
 kt: 3966
-topic: Migrazione
-role: Professionista
-level: Principiante
+topic: Migration
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
