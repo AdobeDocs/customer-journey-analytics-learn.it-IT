@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: dfd17aab3faf67f9d1b1739ed8e1da6809734941
+source-git-commit: 68ca589a18cea7c1ec30c2446491b8e920e2ebc9
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 25%
+source-wordcount: '146'
+ht-degree: 23%
 
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 25%
 + [Configurazione di base per le visualizzazioni dati](/help/basic-configuration-for-data-views.md)
 + [Configurazione delle impostazioni dei componenti in Visualizzazioni dati](/help/configuring-component-settings-in-data-views.md)
 + [Formattazione delle metriche nelle visualizzazioni dati](/help/formatting-metrics-in-data-views.md)
++ [Creazione di intervalli di valori nelle visualizzazioni dati per l’analisi](/help/creating-value-buckets-in-data-views-for-analysis.md)
 + [Impostazioni di attribuzione nelle visualizzazioni dati](/help/attribution-settings-in-data-views.md)
 + [Informazioni su come CJA utilizza l’identità](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Aggiungere dati passati a una connessione esistente](/help/add-past-data-to-an-existing-connection-in-cja.md)
