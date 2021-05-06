@@ -1,31 +1,24 @@
 ---
-title: Impostazioni di attribuzione nelle visualizzazioni dati in Customer Journey Analytics
-description: Durante la configurazione delle visualizzazioni dati in Adobe Customer Journey Analytics, puoi scegliere le impostazioni di attribuzione per controllare il funzionamento congiunto di dimensioni e metriche. Questo video illustra i valori predefiniti, le opzioni e il modo in cui le impostazioni di attribuzione delle metriche e delle dimensioni interagiscono.
-feature: Data Views
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 30185.jpg
-kt: 3959
+title: Impostazioni di attribuzione nelle visualizzazioni dati
+description: Ciascuna dimensione deve avere un'impostazione di allocazione (per decidere quale valore ottiene credito per la conversione) e un'impostazione di scadenza (per quanto tempo il valore persiste), in modo che il sistema sappia come assegnare valore ai valori di dimensione. Allo stesso modo, e lavorando insieme, le metriche devono avere anche un modello di attribuzione e un intervallo di lookback impostati. Questo video illustra come impostare queste impostazioni importanti.
+feature: Visualizzazioni dati
+topic: Amministrazione
 role: Administrator
 level: Beginner
+doc-type: feature video
+thumbnail: 30185.jpg
+kt: 3959
+exl-id: 9a1663ec-3fd1-4899-971f-11e42cea94fc
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 4%
+source-wordcount: '134'
+ht-degree: 2%
 
 ---
 
+# [!UICONTROL Attribution] Impostazioni in  [!UICONTROL Data Views]
 
-# [!UICONTROL Attribution] Impostazioni in  [!UICONTROL Data Views] Customer Journey Analytics
-
-Durante la configurazione di [!UICONTROL Data Views] in Customer Journey Analytics, puoi scegliere le impostazioni [!UICONTROL attribution] per controllare il modo in cui [!UICONTROL dimensions] e [!UICONTROL metrics] funzioneranno insieme. Questo video illustra i valori predefiniti, le opzioni e il modo in cui le impostazioni [!UICONTROL metric] e [!UICONTROL dimension] [!UICONTROL attribution] interagiscono.
+Ciascuna dimensione deve avere un&#39;impostazione di allocazione (per decidere quale valore ottiene credito per la conversione) e un&#39;impostazione di scadenza (per quanto tempo il valore persiste), in modo che il sistema sappia come assegnare valore ai valori di dimensione. Allo stesso modo, e lavorando insieme, le metriche devono avere anche un modello di attribuzione e un intervallo di lookback impostati. Questo video illustra come impostare queste impostazioni importanti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
-
-## Risorse aggiuntive
-
-* [Configurazione di base per le visualizzazioni dati](basic-configuration-for-data-views.md)
-* [Customer Journey Analytics - Documentazione sulla configurazione delle visualizzazioni dati](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/configure-dataviews.html).
