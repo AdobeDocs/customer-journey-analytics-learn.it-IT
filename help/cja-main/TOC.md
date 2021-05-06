@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 22%
+source-wordcount: '175'
+ht-degree: 20%
 
 ---
 
@@ -20,10 +20,13 @@ ht-degree: 22%
 + [Utilizzo dei dati](/help/working-with-data-in-cja.md)
 + [Connettersi a Origini dati in Platform](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [Configurazione di base per le visualizzazioni dati](/help/basic-configuration-for-data-views.md)
-+ [Configurazione delle impostazioni dei componenti in Visualizzazioni dati](/help/configuring-component-settings-in-data-views.md)
++ [Configurare le impostazioni del componente in Visualizzazioni dati](/help/configuring-component-settings-in-data-views.md)
++ [Impostazioni del tipo di componente in Visualizzazioni dati](/help/component-type-settings-in-data-views.md)
 + [Formattazione delle metriche nelle visualizzazioni dati](/help/formatting-metrics-in-data-views.md)
++ [Includere o escludere i valori delle metriche nelle visualizzazioni dati](/help/include-or-exclude-metric-values-in-data-views.md)
 + [Creazione di intervalli di valori nelle visualizzazioni dati per l’analisi](/help/creating-value-buckets-in-data-views-for-analysis.md)
 + [Includere o escludere valori di dimensione in Visualizzazioni dati](/help/include-or-exclude-dimension-values-in-data-views.md)
++ [Configurare le opzioni Nessun valore in Visualizzazioni dati](/help/configure-no-value-options-in-data-views.md)
 + [Impostazioni di attribuzione nelle visualizzazioni dati](/help/attribution-settings-in-data-views.md)
 + [Informazioni su come CJA utilizza l’identità](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Aggiungere dati passati a una connessione esistente](/help/add-past-data-to-an-existing-connection-in-cja.md)
