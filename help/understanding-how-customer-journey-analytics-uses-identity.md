@@ -1,28 +1,27 @@
 ---
-title: Informazioni su come Customer Journey Analytics utilizza l’identità
-description: Questo video non è un’analisi approfondita tecnica, ma piuttosto un’analisi pratica di come l’identità influisce sull’analisi in Adobe Customer Journey Analytics, con un’occhiata alle visualizzazioni cross-channel rese possibili dall’unione degli ID visitatore.
-feature: Identity
+title: Informazioni su come il Customer Journey Analytics utilizza l’identità
+description: Questo video non è un’immersione tecnica approfondita, ma piuttosto un’analisi pratica del modo in cui l’identità influisce sull’analisi nel Customer Journey Analytics di Adobi, tra cui un’occhiata alle visualizzazioni cross-channel rese possibili dall’unione degli ID visitatore.
+feature: Identità
 topics: topics
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30750.jpg
 kt: 3955
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 9%
+source-wordcount: '96'
+ht-degree: 15%
 
 ---
 
+# Informazioni sull’utilizzo di [!UICONTROL Identity] da parte del Customer Journey Analytics
 
-# Informazioni su come Customer Journey Analytics utilizza [!UICONTROL Identity]
-
-Questo video non è un’immersione profonda tecnica, ma piuttosto un’analisi pratica di come [!UICONTROL identity] influisce sull’analisi in Customer Journey Analytics, compreso un’occhiata a canali diversi [!UICONTROL visualizations] resi possibili mediante l’unione degli ID [!UICONTROL visitor] .
+Questo video non è un&#39;immersione profonda tecnica, ma piuttosto un&#39;analisi pratica di come [!UICONTROL identity] influisce sull&#39;analisi nel Customer Journey Analytics, compreso un&#39;analisi cross-channel [!UICONTROL visualizations] resa possibile dall&#39;unione di [!UICONTROL visitor] ID.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
 
-Per ulteriori informazioni, visita la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
+Per ulteriori informazioni, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
