@@ -1,6 +1,6 @@
 ---
-title: Attribuzione tra canali in Customer Journey Analytics
-description: In questo video verrà illustrato come utilizzare le visualizzazioni per mostrare l’attribuzione (riconoscere il merito) tra i diversi canali in Adobe Customer Journey Analytics.
+title: Attribuzione cross-channel nel Customer Journey Analytics
+description: In questo video verrà illustrato come utilizzare le visualizzazioni per mostrare l’attribuzione (riconoscere il merito) tra i diversi canali nel Customer Journey Analytics di Adobe.
 feature: Attribution
 topics: null
 activity: use
@@ -8,21 +8,20 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 11%
+source-wordcount: '73'
+ht-degree: 12%
 
 ---
 
+# Canale incrociato [!UICONTROL Attribution] nel Customer Journey Analytics
 
-# Canale cross-channel [!UICONTROL Attribution] in Customer Journey Analytics
-
-In questo video verrà illustrato come utilizzare [!UICONTROL visualizations] per mostrare [!UICONTROL attribution] (dare credito) tra i canali in Customer Journey Analytics.
+In questo video verrà illustrato come utilizzare [!UICONTROL visualizations] per mostrare [!UICONTROL attribution] (dare credito) tra i diversi canali del Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
 
-Per ulteriori informazioni su Customer Journey Analytics, visita la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
+Per ulteriori informazioni sul Customer Journey Analytics, visita la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
