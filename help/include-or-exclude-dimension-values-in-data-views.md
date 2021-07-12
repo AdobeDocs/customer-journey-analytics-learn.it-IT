@@ -1,23 +1,22 @@
 ---
-title: Includere o escludere valori di dimensione in Visualizzazioni dati
+title: Inclusione o esclusione dei valori della dimensione nelle Visualizzazioni dati
 description: Con questa funzione di configurazione Visualizzazione dati puoi filtrare i valori nelle dimensioni per semplificare la vita degli analisti durante la creazione di progetti in Customer Journey Analytics. Mi ringrazierete più tardi (dopo che i vostri analisti vi ringraziano).
 feature: Visualizzazioni dati
 topic: Amministrazione
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332906.jpg
 kt: 7588
-translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+exl-id: 4bc0479a-7dc7-4e52-a6f7-0b5e45441f4e
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 4%
+ht-degree: 19%
 
 ---
 
-
-# Includere o escludere valori di dimensione in Visualizzazioni dati
+# Inclusione o esclusione dei valori della dimensione nelle Visualizzazioni dati
 
 Con questa funzione di configurazione [!UICONTROL Data View], puoi filtrare i valori nelle dimensioni per semplificare la vita degli analisti durante la creazione di progetti in Customer Journey Analytics. Mi ringrazierete più tardi (dopo che i vostri analisti vi ringraziano).
 
