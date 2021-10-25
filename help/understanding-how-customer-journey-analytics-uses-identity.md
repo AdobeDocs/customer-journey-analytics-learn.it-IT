@@ -1,7 +1,7 @@
 ---
-title: Informazioni su come il Customer Journey Analytics utilizza l’identità
-description: Questo video non è un’immersione tecnica approfondita, ma piuttosto un’analisi pratica del modo in cui l’identità influisce sull’analisi nel Customer Journey Analytics di Adobi, tra cui un’occhiata alle visualizzazioni cross-channel rese possibili dall’unione degli ID visitatore.
-feature: Identità
+title: Utilizzo dell’identità in Customer Journey Analytics
+description: Questo video non offre un approfondimento tecnico, ma piuttosto uno sguardo pratico al modo in cui l’identità influisce sull’analisi in Adobe Customer Journey Analytics e a come l’unione degli ID visitatore permette di ottenere visualizzazioni cross-channel.
+feature: Identity
 topics: topics
 activity: understand
 doc-type: feature video
@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 15%
+workflow-type: ht
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
-# Informazioni sull’utilizzo di [!UICONTROL Identity] da parte del Customer Journey Analytics
+# Utilizzo dell’[!UICONTROL Identity] in Customer Journey Analytics
 
-Questo video non è un&#39;immersione profonda tecnica, ma piuttosto un&#39;analisi pratica di come [!UICONTROL identity] influisce sull&#39;analisi nel Customer Journey Analytics, compreso un&#39;analisi cross-channel [!UICONTROL visualizations] resa possibile dall&#39;unione di [!UICONTROL visitor] ID.
+Questo video non offre un approfondimento tecnico, ma piuttosto uno sguardo pratico a come l’[!UICONTROL identity] influisce sull’analisi in Customer Journey Analytics e a come l’unione degli ID [!UICONTROL visitor] permette di ottenere [!UICONTROL visualizations] cross-channel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
 
