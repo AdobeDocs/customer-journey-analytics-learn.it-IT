@@ -11,9 +11,9 @@ kt: 3962
 role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: ht
-source-wordcount: '103'
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
@@ -24,4 +24,4 @@ Questo video illustra come creare [!UICONTROL filters] in Customer Journey Analy
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
 
-Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
+Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it).

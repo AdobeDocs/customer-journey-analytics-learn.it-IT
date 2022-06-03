@@ -11,9 +11,9 @@ kt: 3965
 role: Data Engineer, Data Architect
 level: Beginner
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -24,4 +24,4 @@ In questo video, scopri come aggiungere dati passati (dati a cui è associata un
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?quality=12)
 
-Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://docs.adobe.com/content/help/it-IT/analytics-platform/using/cja-landing.html).
+Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it).
