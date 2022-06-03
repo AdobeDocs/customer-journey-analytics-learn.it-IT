@@ -1,6 +1,6 @@
 ---
 title: Architettura e integrazioni di Customer Journey Analytics
-description: Descrizione dettagliata dell’architettura di Customer Journey Analytics, compreso il modo in cui si collega e si integra con Adobe Experience Platform.
+description: Descrizione dettagliata dell’architettura di Adobe Customer Journey Analytics, compreso il modo in cui si collega e si integra con Adobe Experience Platform.
 feature: CJA Workspace Basics
 topics: null
 activity: understand
@@ -13,7 +13,7 @@ role: Architect, Data Architect
 level: Intermediate
 exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
