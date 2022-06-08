@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
 workflow-type: tm+mt
 source-wordcount: '257'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 95%
       + [Spostare i segmenti di Adobe Analytics in Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
 + Dashboard (scorecard) {#dashboards}
    + [Creare una scorecard per dispositivi mobili](dashboards/create-a-mobile-scorecard.md)
-   + [Aiutare i dirigenti ad accedere alle scorecard per dispositivi mobili](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [Aiuta i dirigenti ad accedere alle scorecard per dispositivi mobili](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Metriche calcolate {#calc-metrics}
    + [Introduzione alle metriche calcolate in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
    + [Spostare le metriche calcolate da Adobe Analytics a Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
