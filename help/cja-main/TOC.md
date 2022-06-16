@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 95%
    + [Configurare le impostazioni dei componenti nelle visualizzazioni dati](data-views/configuring-component-settings-in-data-views.md)
    + [Impostazioni del tipo di componente nelle visualizzazioni dati](data-views/component-type-settings-in-data-views.md)
    + [Formattazione delle metriche nelle visualizzazioni dati](data-views/formatting-metrics-in-data-views.md)
-   + [Configurare le impostazioni del componente della sottostringa](data-views/configure-substring-component-settings.md)
+   + [Configura le impostazioni del componente della sottostringa](data-views/configure-substring-component-settings.md)
    + [Inclusione o esclusione dei valori delle metriche nelle visualizzazioni dati](data-views/include-or-exclude-metric-values-in-data-views.md)
    + [Creazione di contenitori di valori nelle visualizzazioni dati per l’analisi](data-views/creating-value-buckets-in-data-views-for-analysis.md)
    + [Inclusione o esclusione dei valori di dimensione nelle visualizzazioni dati](data-views/include-or-exclude-dimension-values-in-data-views.md)
