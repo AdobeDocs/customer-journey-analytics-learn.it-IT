@@ -12,9 +12,9 @@ role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -26,5 +26,5 @@ Customer Journey Analytics (CJA) offre Analysis Workspace in aggiunta a [!UICONT
 
 ## Risorse aggiuntive
 
-* [Creare set di dati e inserire dati in Adobe Experience Platform: video](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html)
+* [Creare set di dati e inserire dati in Adobe Experience Platform: video](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=it)
 * [Documentazione di Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it)
