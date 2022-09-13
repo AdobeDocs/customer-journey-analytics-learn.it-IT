@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '276'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 99%
       + [Introduzione alle metriche calcolate in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [Spostare le metriche calcolate da Adobe Analytics a Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + Tipi di pubblico {#audiences}
-      + [Pubblicazione del pubblico](components/audiences/audience-publishing-for-cja.md)
+      + [Pubblicazione dei tipi di pubblico](components/audiences/audience-publishing-for-cja.md)
 + Pannelli {#panels}
    + [Configurare il pannello elemento successivo e precedente](panels/configure-next-previous-item-panel.md)
 + Annotazioni {#annotations}
