@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 95%
       + [Pubblicazione dei tipi di pubblico](components/audiences/audience-publishing-for-cja.md)
 + Pannelli {#panels}
    + [Configurare il pannello elemento successivo e precedente](panels/configure-next-previous-item-panel.md)
-   + [Utilizzare il pannello Sperimentazione](panels/use-the-experimentation-panel.md)
+   + [Utilizzare il pannello di sperimentazione](panels/use-the-experimentation-panel.md)
 + Annotazioni {#annotations}
    + [Creare un’annotazione](components/create-an-annotation.md)
 + Dashboard (scorecard) {#dashboards}
@@ -69,8 +69,8 @@ ht-degree: 95%
       + [Report Builder per Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
 + Casi d’uso {#use-cases}
    + Casi d’uso per le visualizzazioni dati {#data-views-use-cases}
-      + [Generazione di rapporti per sessioni nuove e di ritorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [Utilizzo del supporto per i campi data](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [Reportistica per prime sessioni e sessioni di ritorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [Utilizzo del supporto per i campi della data](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprint {#blueprints}
    + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=it)
    + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html?lang=it)
