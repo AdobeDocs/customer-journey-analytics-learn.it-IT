@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
-workflow-type: ht
-source-wordcount: '295'
-ht-degree: 100%
+source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
+workflow-type: tm+mt
+source-wordcount: '303'
+ht-degree: 97%
 
 ---
 
@@ -67,6 +67,7 @@ ht-degree: 100%
 + Esportazione {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder per Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
+      + [Pianificazione delle cartelle di lavoro dei Customer Journey Analytics tramite Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + Casi d’uso {#use-cases}
    + Casi d’uso per le visualizzazioni dati {#data-views-use-cases}
       + [Reportistica per prime sessioni e sessioni di ritorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
