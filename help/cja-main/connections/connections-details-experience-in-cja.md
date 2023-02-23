@@ -1,26 +1,23 @@
 ---
-title: Esperienza dei dettagli delle connessioni in CJA
-description: Ti diamo il benvenuto nell’esperienza Dettagli connessioni, che ti consentirà di controllare lo stato dei set di dati della tua connessione e il processo di acquisizione.
+title: Visualizzare, risolvere i problemi e modificare le impostazioni di connessione
+description: Gestione connessioni consente di controllare lo stato dell'inserimento dei set di dati della connessione. Questa interfaccia ti informa anche quando i dati sono disponibili per avviare l’analisi in Workspace.
 feature: Connections
 topic: Administration
+doc-type: feature video
 role: Admin
 level: Beginner
-kt: 10221
 thumbnail: 342097.jpg
+kt: 10221
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
-source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 0%
 
 ---
 
-# Esperienza dei dettagli delle connessioni in CJA
+# Visualizzare, risolvere i problemi e modificare le impostazioni di connessione
 
-Ti diamo il benvenuto nell’esperienza Dettagli connessioni, che ti consentirà di controllare lo stato dei set di dati della tua connessione e il processo di acquisizione.
+Gestione connessioni consente di controllare lo stato dell&#39;inserimento dei set di dati della connessione. Questa interfaccia ti informa anche quando i dati sono disponibili per avviare l’analisi in Workspace. Scopri come identificare le discrepanze di dati dovute a configurazioni errate, gestire le date di importazione dei dati e rimuovere i set di dati dalle connessioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
-
-Questo controllo di stato ti consente di sapere quando i dati sono disponibili in modo da poter accedere ad Analysis Workspace e avviare l’analisi. Inoltre, ti consentirà di identificare eventuali discrepanze di dati dovute a errori di configurazione. Esistono righe saltate o eliminate? In caso affermativo, quante sono state saltate o cancellate e quando? Hai configurato in modo errato le connessioni e causato il salto di dati in CJA?
-
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=it).
