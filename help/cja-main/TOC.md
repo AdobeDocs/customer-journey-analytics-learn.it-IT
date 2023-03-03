@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '299'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 95%
    + [Utilizzo dei dati](data-prep/working-with-data-in-cja.md)
    + [Acquisire, mappare e trasformare dati Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + Connessioni {#connections}
-   + [Connettersi alle origini dati di Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [Connessione alle sorgenti dei dati di Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Visualizzare, risolvere i problemi e modificare le impostazioni di connessione](connections/connections-details-experience-in-cja.md)
    + [Aggiungere dati passati a una connessione esistente](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + Identificazione visitatore {#visitor-id}
