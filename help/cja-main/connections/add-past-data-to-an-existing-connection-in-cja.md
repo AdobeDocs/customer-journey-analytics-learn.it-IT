@@ -11,10 +11,10 @@ thumbnail: 32549.jpg
 kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 07226100be0f4164bdf0cfacfa4196415626cbda
+source-git-commit: efed2704898d311c1de059721eeb076c7aa941e2
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 5%
+source-wordcount: '97'
+ht-degree: 7%
 
 ---
 
@@ -24,9 +24,4 @@ Ottieni più valore dall’analisi aggiungendo nuovi dati da altri canali a una 
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
 
-## Video e documentazione correlati:
-
-[Collegare Customer Journey Analytics a origini dati](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html)
-[Panoramica sulla configurazione delle visualizzazioni dati](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/overview-of-configuring-data-views-for-cja.html)
-[Comprendere come il Customer Journey Analytics utilizza l&#39;identità](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/visitor-id/understanding-how-customer-journey-analytics-uses-identity.html)
-[Analisi cross-channel](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=it)
+Per ulteriori informazioni su Cross-Channel Analytics, consulta la sezione [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=it).
