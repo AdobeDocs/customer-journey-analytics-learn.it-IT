@@ -1,6 +1,6 @@
 ---
-title: Configurare un ID persona mancante nel Customer Journey Analytics
-description: Come si indirizza un set di dati che non dispone di un ID persona disponibile da configurare? Per vedere come si fa, guarda questo video.
+title: Configurare un ID persona mancante in Customer Journey Analytics
+description: Come si indirizza un set di dati che non dispone di un ID persona da configurare? Per vedere come si fa, guarda questo video.
 feature: Identity
 topics: topics
 activity: understand
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 last-substantial-update: 2023-04-03T00:00:00Z
 source-git-commit: 4af5db21dcdfb30865b09ef64f38e5252167c77c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configurare un ID persona mancante nel Customer Journey Analytics
+# Configurare un ID persona mancante in Customer Journey Analytics
 
-Come si indirizza un set di dati che non dispone di un ID persona disponibile da configurare in una connessione di Customer Journey Analytics? Per vedere come si fa, guarda questo video.
+Come si indirizza un set di dati che non dispone di un ID persona da configurare in una connessione di Customer Journey Analytics? Per vedere come si fa, guarda questo video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417726/?quality=12&learn=on)
