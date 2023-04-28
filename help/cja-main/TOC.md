@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 8508b1e6e392a89a8e033baf06472da8e764e28e
+source-git-commit: 20114569963ebaf9c1feea4b5a2cc568d66e6985
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -55,6 +55,7 @@ ht-degree: 0%
       + [Introduzione ai filtri](components/filters/introduction-to-filters-in-cja.md)
       + [Creare un filtro rapido](components/filters/create-a-quick-filter.md)
       + [Creare filtri cross-channel](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [Utilizzare i filtri come dimensioni](components/filters/use-filters-as-dimensions.md)
       + [Spostare i segmenti di Adobe Analytics in Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Metriche calcolate {#calc-metrics}
       + [Introduzione alle metriche calcolate in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
