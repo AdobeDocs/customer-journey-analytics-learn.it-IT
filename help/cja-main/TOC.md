@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
+source-git-commit: aac1b820fda0e1ea8c21938ae23f0e5b0034d7ab
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 92%
 + Visualizzazioni {#visualizations}
    + [Creare visualizzazioni cross-channel](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Attribuzione cross-channel](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+   + [Sottotitoli intelligenti](visualizations/intelligent-captions.md)
 + Componenti {#components}
    + Filtri (segmentazione) {#filters}
       + [Panoramica dei filtri](components/filters/introduction-to-filters-in-cja.md)
@@ -79,7 +80,7 @@ ht-degree: 92%
 + Casi d’uso {#use-cases}
    + Casi d’uso per le visualizzazioni dati {#data-views-use-cases}
       + [Reportistica per prime sessioni e sessioni di ritorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [Supporto del campo data](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [Utilizza il supporto per il campo data](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprint {#blueprints}
    + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=it)
    + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
