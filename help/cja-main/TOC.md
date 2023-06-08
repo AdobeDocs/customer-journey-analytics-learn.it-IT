@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
+source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 90%
+source-wordcount: '381'
+ht-degree: 79%
 
 ---
 
@@ -53,7 +53,18 @@ ht-degree: 90%
 + Visualizzazioni {#visualizations}
    + [Creare visualizzazioni cross-channel](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [Attribuzione cross-channel](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [Sottotitoli intelligenti](visualizations/intelligent-captions.md)
+   + [Creare sottotitoli intelligenti](visualizations/intelligent-captions.md)
+   + [Aggiungere visualizzazioni area](visualizations/add-area-visualizations.md)
+   + [Aggiungere visualizzazioni a barre](visualizations/add-bar-visualizations.md)
+   + [Aggiungere visualizzazioni del grafico bullet](visualizations/add-bullet-graph-visualizations.md)
+   + [Aggiungere visualizzazioni ad anello](visualizations/add-donut-visualizations.md)
+   + [Aggiungere visualizzazioni a linee](visualizations/add-line-visualizations.md)
+   + [Utilizzare la visualizzazione mappa](visualizations/use-map-visualization.md)
+   + [Utilizzare le visualizzazioni di riepilogo](visualizations/use-summary-visualizations.md)
+   + [Aggiungere visualizzazioni di testo](visualizations/add-text-visualizations.md)
+   + [Utilizzare la visualizzazione grafico a dispersione](visualizations/use-scatterplot-visualizations.md)
+   + [Aggiungere la visualizzazione della mappa ad albero](visualizations/add-treemap-visualizations.md)
+   + [Creare visualizzazioni completamente impilate](visualizations/create-stacked-visualizations.md)
 + Componenti {#components}
    + Filtri (segmentazione) {#filters}
       + [Panoramica dei filtri](components/filters/introduction-to-filters-in-cja.md)
@@ -75,7 +86,7 @@ ht-degree: 90%
    + [Creare un’annotazione](components/create-an-annotation.md)
 + Dashboard (scorecard) {#dashboards}
    + [Creare una scorecard per dispositivi mobili](dashboards/create-a-mobile-scorecard.md)
-   + [Aiuta i dirigenti ad accedere alle scorecard per dispositivi mobili](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [Aiutare i dirigenti ad accedere alle scorecard per dispositivi mobili](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + Esportazione {#exporting}
    + Report Builder {#report-builder}
       + [Report Builder per Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -86,6 +97,6 @@ ht-degree: 90%
       + [Utilizza il supporto per il campo data](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprint {#blueprints}
    + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=it)
-   + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
-   + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
+   + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
+   + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
 
