@@ -8,8 +8,8 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
-workflow-type: ht
+source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
+workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
 
@@ -31,16 +31,13 @@ Customer Journey Analytics consente di controllare come collegare i dati online 
 ## Novità
 
 * **[Spostare i segmenti di Adobe Analytics in Customer Journey Analytics (video)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-
-   *Scopri come ricreare i segmenti di Adobe Analytics in Customer Journey Analytics*
+  *Scopri come ricreare i segmenti di Adobe Analytics in Customer Journey Analytics*
 
 * **[Spostare le metriche calcolate da Adobe Analytics a Customer Journey Analytics (video)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-
-   *Suggerimenti per ricreare le metriche calcolate di Adobe Analytics in Customer Journey Analytics*
+  *Suggerimenti per ricreare le metriche calcolate di Adobe Analytics in Customer Journey Analytics*
 
 * **[Creare filtri cross-channel (video)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-
-   *Creare filtri in Customer Journey Analytics che utilizzano più origini dati e più canali*
+  *Creare filtri in Customer Journey Analytics che utilizzano più origini dati e più canali*
 
 </div>
 
@@ -84,11 +81,11 @@ Customer Journey Analytics consente di controllare come collegare i dati online 
     <p>
   </td>
   <td>
-    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Attribuzione cross-channel in Customer Journey Analytics" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Attribuzione cross-channel in Customer Journey Analytics</strong>
     </a>
     </div>
