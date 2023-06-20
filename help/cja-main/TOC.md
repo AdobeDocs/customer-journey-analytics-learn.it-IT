@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
+source-git-commit: 1150ec26cf52df892c432959ebe5a8bf730a8b34
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 77%
+source-wordcount: '395'
+ht-degree: 76%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 77%
 + Preparazione dei dati e pianificazione {#data-prep}
    + [Utilizzo dei dati](data-prep/working-with-data-in-cja.md)
    + [Acquisire, mappare e trasformare dati Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
+   + [Acquisire e utilizzare i dati delle classificazioni di Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
 + Connessioni {#connections}
    + [Connessione alle sorgenti dei dati di Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Visualizzare, risolvere i problemi e modificare le impostazioni di connessione](connections/connections-details-experience-in-cja.md)
@@ -101,4 +102,3 @@ ht-degree: 77%
    + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=it)
    + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
    + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
-
