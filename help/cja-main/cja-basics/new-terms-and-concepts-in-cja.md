@@ -1,7 +1,7 @@
 ---
 title: Nuovi termini e concetti in Customer Journey Analytics
 description: In questo video approfondiamo i termini e i concetti chiave di Adobe Customer Journey Analytics, come corrispondono ai termini e ai concetti di Adobe Analytics e dove si trovano nell’interfaccia di Customer Journey Analytics.
-feature: CJA Workspace Basics
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,8 +11,8 @@ kt: 3960
 role: User
 level: Beginner
 exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
-workflow-type: ht
+source-git-commit: c9830412d18f63dc14020748ff43df7f7fcf408c
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
