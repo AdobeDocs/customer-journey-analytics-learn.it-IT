@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
+source-git-commit: 30445426a634f0a25672da9e8a2a977df35dc014
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 70%
+source-wordcount: '440'
+ht-degree: 74%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 70%
    + Cura e condividi {#curate-and-share}
       + [Condividi con chiunque in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Suggerimenti {#tips-and-tricks}
-      + [Creare filtri dinamici a discesa](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [Creare filtri a discesa dinamici](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Panoramica Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analisi guidata {#guided-analysis}
@@ -112,6 +112,8 @@ ht-degree: 70%
    + Casi d’uso per le visualizzazioni dati {#data-views-use-cases}
       + [Reportistica per prime sessioni e sessioni di ritorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Utilizza il supporto per il campo data](use-cases/data-views-use-cases/leverage-date-field-support.md)
+   + Dati complessi {#complex-data}
+      + [Utilizzare gli array di oggetti](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
    + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=it)
    + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
