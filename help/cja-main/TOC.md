@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f4a115aac609e7aacf84ea17fad1f13d9fd5a268
+source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 73%
+source-wordcount: '432'
+ht-degree: 68%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 73%
    + [Connessione alle sorgenti dei dati di Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Visualizzare, risolvere i problemi e modificare le impostazioni di connessione](connections/connections-details-experience-in-cja.md)
    + [Aggiungi nuovi dati a una connessione](connections/add-past-data-to-an-existing-connection-in-cja.md)
+   + [Ricerche CJA per dati di ricerca e profilo](connections/cja-lookup-data.md)
 + Identificazione visitatore {#visitor-id}
    + [Utilizzo dell’identità in CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Configurare un ID persona mancante](visitor-id/configure-missing-person-id.md)
@@ -70,7 +71,7 @@ ht-degree: 73%
       + [Creare visualizzazioni completamente impilate](analysis-workspace/visualizations/create-stacked-visualizations.md)
    + Annotazioni {#annotations}
       + [Creare un’annotazione](analysis-workspace/annotations/create-an-annotation.md)
-   + Cura e condividi {#curate-and-share}
+   + Curare e condividere {#curate-and-share}
       + [Condividi con chiunque in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + Suggerimenti {#tips-and-tricks}
       + [Creare filtri a discesa dinamici](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
@@ -117,6 +118,6 @@ ht-degree: 73%
    + Dati complessi {#complex-data}
       + [Utilizzare gli array di oggetti](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=it){target=_blank}
+   + [blueprint Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=it){target=_blank}
    + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
    + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
