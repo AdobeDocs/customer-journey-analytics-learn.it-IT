@@ -1,6 +1,6 @@
 ---
 title: Ricerche CJA per dati di ricerca e profilo
-description: 'Con le ricerche CJA sui dati di ricerca e profilo, gli utenti possono utilizzare relazioni più profonde tra gli elementi di dati, come persone per account nei casi di utilizzo B2B.  Questo video illustra come aggiungere dati di ricerca ai set di dati di ricerca e di profilo e come pianificare e mappare i campi chiave.  Nota: se esiste una relazione uno a molti tra la chiave e il valore di ricerca, verrà utilizzato il valore più recente.'
+description: Scopri come aggiungere dati di ricerca ai set di dati di ricerca e di profilo e come pianificare e mappare i campi chiave.
 feature: Ingestion
 role: User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 360
 last-substantial-update: 2023-12-18T00:00:00Z
 jira: KT-14719
 thumbnail: 3426424.jpeg
-source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
+source-git-commit: e253ef465c58225cd1e7cb3db67442adbc57ed05
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
