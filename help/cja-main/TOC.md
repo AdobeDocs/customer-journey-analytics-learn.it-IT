@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '435'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 68%
    + [Connessione alle sorgenti dei dati di Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Visualizzare, risolvere i problemi e modificare le impostazioni di connessione](connections/connections-details-experience-in-cja.md)
    + [Aggiungi nuovi dati a una connessione](connections/add-past-data-to-an-existing-connection-in-cja.md)
-   + [Ricerche CJA per dati di ricerca e profilo](connections/cja-lookup-data.md)
+   + [Ricerche CJA per dati di ricerca e di profilo](connections/cja-lookup-data.md)
 + Identificazione visitatore {#visitor-id}
    + [Utilizzo dell’identità in CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Configurare un ID persona mancante](visitor-id/configure-missing-person-id.md)
-   + [Panoramica sull’unione](visitor-id/overview-of-stitching.md)
+   + [Panoramica di unione](visitor-id/overview-of-stitching.md)
 + Visualizzazioni dati {#data-views}
    + [Panoramica sulla configurazione delle visualizzazioni dati di CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Configurazione di base per le visualizzazioni dati](data-views/basic-configuration-for-data-views.md)
@@ -58,30 +58,30 @@ ht-degree: 68%
    + Visualizzazioni {#visualizations}
       + [Creare visualizzazioni cross-channel](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [Attribuzione cross-channel](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-      + [Creare sottotitoli intelligenti](analysis-workspace/visualizations/intelligent-captions.md)
-      + [Aggiungere visualizzazioni area](analysis-workspace/visualizations/add-area-visualizations.md)
-      + [Aggiungere visualizzazioni a barre](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [Creare didascalie intelligenti](analysis-workspace/visualizations/intelligent-captions.md)
+      + [Aggiungere visualizzazioni dell’area](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [Aggiungere visualizzazioni della barra](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [Aggiungere visualizzazioni del grafico bullet](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
-      + [Aggiungere visualizzazioni ad anello](analysis-workspace/visualizations/add-donut-visualizations.md)
-      + [Aggiungere visualizzazioni a linee](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [Aggiungere visualizzazioni dell’anello](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [Aggiungere visualizzazioni della riga](analysis-workspace/visualizations/add-line-visualizations.md)
       + [Utilizzare la visualizzazione mappa](analysis-workspace/visualizations/use-map-visualization.md)
       + [Utilizzare le visualizzazioni di riepilogo](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Aggiungere visualizzazioni di testo](analysis-workspace/visualizations/add-text-visualizations.md)
-      + [Utilizzare la visualizzazione grafico a dispersione](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [Utilizzare la visualizzazione con grafico a dispersione](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [Aggiungere la visualizzazione della mappa ad albero](analysis-workspace/visualizations/add-treemap-visualizations.md)
-      + [Creare visualizzazioni completamente impilate](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [Creare visualizzazioni completamente sovrapposte](analysis-workspace/visualizations/create-stacked-visualizations.md)
    + Annotazioni {#annotations}
       + [Creare un’annotazione](analysis-workspace/annotations/create-an-annotation.md)
-   + Curare e condividere {#curate-and-share}
+   + Cura e condividi {#curate-and-share}
       + [Condividi con chiunque in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + Suggerimenti {#tips-and-tricks}
+   + Suggerimenti e trucchi {#tips-and-tricks}
       + [Creare filtri a discesa dinamici](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
-   + [Panoramica Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
+   + [Panoramica di Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analisi guidata {#guided-analysis}
    + Impatto {#impact}
       + [Analisi dell’impatto sulle versioni](guided-analysis/impact/release-impact-analysis.md)
-      + [Analisi di impatto sul primo utilizzo](guided-analysis/impact/first-use-impact-analysis.md)
+      + [Analisi dell’impatto sul primo utilizzo](guided-analysis/impact/first-use-impact-analysis.md)
    + Funnel {#funnel}
       + [Analisi dell’attrito del funnel](guided-analysis/funnel/funnel-friction-analysis.md)
       + [Analisi delle tendenze della conversione funnel](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
@@ -103,7 +103,7 @@ ht-degree: 68%
    + Tipi di pubblico {#audiences}
       + [Pubblicazione dei tipi di pubblico](components/audiences/audience-publishing-for-cja.md)
    + Dizionario dati {#data-dictionary}
-      + [Usa dizionario dati](components/data-dictionary/use-data-dictionary.md)
+      + [Utilizzare il dizionario dei dati](components/data-dictionary/use-data-dictionary.md)
 + Dashboard (scorecard) {#dashboards}
    + [Creare una scorecard per dispositivi mobili](dashboards/create-a-mobile-scorecard.md)
    + [Aiutare i dirigenti ad accedere alle scorecard per dispositivi mobili](dashboards/assist-executives-to-access-mobile-scorecards.md)
@@ -115,10 +115,10 @@ ht-degree: 68%
 + Casi d’uso {#use-cases}
    + Casi d’uso per le visualizzazioni dati {#data-views-use-cases}
       + [Reportistica per prime sessioni e sessioni di ritorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [Utilizza il supporto per il campo data](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [Utilizzare il supporto per i campi della data](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + Dati complessi {#complex-data}
       + [Utilizzare gli array di oggetti](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [blueprint Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=it){target=_blank}
-   + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
-   + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
+   + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=it){target=_blank}
+   + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=it){target=_blank}
+   + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=it){target=_blank}
