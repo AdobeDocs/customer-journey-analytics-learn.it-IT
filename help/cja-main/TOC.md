@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
-workflow-type: ht
-source-wordcount: '441'
-ht-degree: 100%
+source-git-commit: c1654261e5974c4ec07f126bf35c256c9c64e804
+workflow-type: tm+mt
+source-wordcount: '446'
+ht-degree: 98%
 
 ---
 
@@ -70,6 +70,7 @@ ht-degree: 100%
       + [Utilizzare la visualizzazione con grafico a dispersione](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [Aggiungere la visualizzazione della mappa ad albero](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Creare visualizzazioni completamente sovrapposte](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [Aggiungere previsioni alla visualizzazione](analysis-workspace/visualizations/forecasting.md)
    + Annotazioni {#annotations}
       + [Creare un’annotazione](analysis-workspace/annotations/create-an-annotation.md)
    + Cura e condividi {#curate-and-share}
