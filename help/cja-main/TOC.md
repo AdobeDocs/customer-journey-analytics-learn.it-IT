@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3943a9ac0d9797f18882fadaa43ffbbc01727ab
+source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 96%
+source-wordcount: '486'
+ht-degree: 93%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 96%
    + [Configurare le impostazioni dei componenti nelle visualizzazioni dati](data-views/configuring-component-settings-in-data-views.md)
    + [Impostazioni del tipo di componente nelle visualizzazioni dati](data-views/component-type-settings-in-data-views.md)
    + [Creare campi derivati](data-views/derived-fields-in-cja.md)
+   + [Utilizzare la funzione Math nei campi derivati](data-views/use-the-math-function-in-derived-fields.md)
+   + [Utilizzare la funzione Successivo o Precedente nei campi derivati](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [Formattazione delle metriche nelle visualizzazioni dati](data-views/formatting-metrics-in-data-views.md)
    + [Configura le impostazioni del componente della sottostringa](data-views/configure-substring-component-settings.md)
    + [Inclusione o esclusione dei valori delle metriche nelle visualizzazioni dati](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -89,7 +91,7 @@ ht-degree: 96%
    + Impatto {#impact}
       + [Analisi dell’impatto sulle versioni](guided-analysis/impact/release-impact-analysis.md)
       + [Analisi dell’impatto sul primo utilizzo](guided-analysis/impact/first-use-impact-analysis.md)
-   + Mantenimento {#retention}
+   + Conservazione {#retention}
       + [Analisi dei tassi di mantenimento](guided-analysis/retention/retention-rates-analysis.md)
    + Tendenze {#trends}
       + [Analisi delle tendenze di frequenza](guided-analysis/trends/frequency-trends-analysis.md)
@@ -121,7 +123,7 @@ ht-degree: 96%
    + Report Builder {#report-builder}
       + [Report Builder per Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Pianifica cartelle di lavoro di Customer Journey Analytics tramite Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Integrazione Experienci Platform {#experience-platform-integration}
++ Integrazione Experience Platform {#experience-platform-integration}
    + [Generazione rapporti migliorata per Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Casi d’uso {#use-cases}
    + Casi d’uso per le visualizzazioni dati {#data-views-use-cases}
@@ -130,6 +132,6 @@ ht-degree: 96%
    + Dati complessi {#complex-data}
       + [Utilizzare gli array di oggetti](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=it){target=_blank}
+   + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=it){target=_blank}
    + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=it){target=_blank}
