@@ -1,6 +1,6 @@
 ---
 title: Analisi dell’attrito del funnel
-description: Scopri come utilizzare la vista dell’attrito del funnel in Adobe Product Analytics, che fornisce una rappresentazione visiva di un percorso di utenti critico nel prodotto e consente di determinare dove si trova l’attrito.
+description: Scopri come utilizzare la visualizzazione dell’attrito del funnel nel Customer Journey Analytics, che fornisce una rappresentazione visiva di un percorso di utenti critico nel prodotto e consente di determinare dove si trova l’attrito.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ last-substantial-update: 2024-07-12T00:00:00Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
 exl-id: 52211513-1cda-4173-aebd-4af752c87604
-source-git-commit: ada35ca9c8ef98d685d28f8e02d6cb7297b0d6f0
+source-git-commit: 1da4a8eabe968138d600337a7b570c8fb72001c7
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Analisi dell’attrito del funnel
 
-Scopri come utilizzare la **visualizzazione dell&#39;attrito funnel** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), che fornisce una rappresentazione visiva di un percorso di utenti critico nel prodotto e consente di determinare la posizione dell&#39;attrito.
+Scopri come utilizzare la **visualizzazione dell&#39;attrito funnel** in Customer Journey Analytics, che fornisce una rappresentazione visiva di un percorso di utenti critico nel prodotto e consente di determinare la posizione dell&#39;attrito.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 

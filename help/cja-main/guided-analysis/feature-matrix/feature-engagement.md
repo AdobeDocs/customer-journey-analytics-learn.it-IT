@@ -1,6 +1,6 @@
 ---
 title: Analisi del coinvolgimento delle funzioni
-description: Scopri come utilizzare la vista di coinvolgimento delle funzioni in Adobe Product Analytics. Questa analisi fornisce informazioni sulla frequenza di utilizzo delle funzioni del prodotto rispetto al numero di persone che le utilizzano.
+description: Scopri come utilizzare la vista di coinvolgimento delle funzioni in Customer Journey Analytics. Questa analisi fornisce informazioni sulla frequenza di utilizzo delle funzioni del prodotto rispetto al numero di persone che le utilizzano.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,7 +8,8 @@ doc-type: Feature Video
 jira: KT-15095
 thumbnail: 3429489.jpeg
 last-substantial-update: 2024-06-14T00:00:00Z
-source-git-commit: bd5225b31edace77b78e1a8b80ec9fcdc88ba6cc
+exl-id: 4fbe9012-58c9-4d32-9549-e382fc601f7f
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 7%
@@ -17,7 +18,7 @@ ht-degree: 7%
 
 # Analisi del coinvolgimento delle funzioni
 
-Scopri come utilizzare il **vista di coinvolgimento delle funzioni** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md). Questa analisi fornisce informazioni sulla frequenza di utilizzo delle funzioni del prodotto rispetto al numero di persone che le utilizzano. Confrontare più funzioni contemporaneamente per ottenere vantaggi ottimali. Questo aiuta le tue decisioni di investimento comprendendo le tue funzionalità principali, potenti, una tantum e discutibili.
+Scopri come utilizzare la **vista di coinvolgimento delle funzionalità** nel Customer Journey Analytics. Questa analisi fornisce informazioni sulla frequenza di utilizzo delle funzioni del prodotto rispetto al numero di persone che le utilizzano. Confrontare più funzioni contemporaneamente per ottenere vantaggi ottimali. Questo aiuta le tue decisioni di investimento comprendendo le tue funzionalità principali, potenti, una tantum e discutibili.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 

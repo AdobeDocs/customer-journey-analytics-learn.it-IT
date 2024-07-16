@@ -1,6 +1,6 @@
 ---
 title: Analisi delle tendenze della conversione funnel
-description: Scopri come utilizzare la vista delle tendenze di conversione in Adobe Product Analytics, che tiene traccia delle modifiche nei tassi di conversione funnel nel tempo.
+description: Scopri come utilizzare la vista delle tendenze di conversione in Customer Journey Analytics, che tiene traccia delle modifiche nei tassi di conversione funnel nel tempo.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13672
 thumbnail: 3421662.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: 409980dd-27f3-4d7e-984d-8b0391be7f22
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 10%
+source-wordcount: '58'
+ht-degree: 25%
 
 ---
 
-
 # Analisi delle tendenze della conversione funnel
 
-Scopri come utilizzare il **vista tendenze di conversione** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), che tiene traccia delle modifiche nei tassi di conversione funnel nel tempo.
+Scopri come utilizzare la **visualizzazione delle tendenze di conversione** in Customer Journey Analytics, che tiene traccia delle modifiche nei tassi di conversione funnel nel nel tempo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
