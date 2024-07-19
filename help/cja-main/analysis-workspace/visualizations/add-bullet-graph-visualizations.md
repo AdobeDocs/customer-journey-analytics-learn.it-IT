@@ -1,6 +1,6 @@
 ---
-title: Aggiungi [!UICONTROL bullet graph] visualizzazioni per [!DNL Analysis Workspace] progetti
-description: Scopri come [!UICONTROL bullet graphs] e come aggiungerli a [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics].
+title: Aggiungi [!UICONTROL bullet graph] visualizzazioni a  [!DNL Analysis Workspace]  progetti
+description: Scopri come vengono utilizzati [!UICONTROL bullet graphs] e come aggiungerli a  [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13403
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 3456b70a-02f6-442b-b38b-458b422d525d
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Aggiungi [!UICONTROL bullet graph] visualizzazioni per [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]
+# Aggiungi [!UICONTROL bullet graph] visualizzazioni a [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]
 
-Scopri come [!UICONTROL bullet graphs] e come aggiungerli a [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]. Questo grafico mostra come un valore di interesse si confronta con o misura rispetto agli obiettivi.
+Scopri come vengono utilizzati [!UICONTROL bullet graphs] e come aggiungerli ai progetti [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]. Questo grafico mostra come un valore di interesse si confronta con o misura rispetto agli obiettivi.
 
 >[!NOTE]
 >
->Il [!DNL Analysis Workspace] l&#39;interfaccia utente e le funzioni sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
+>L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Per ulteriori informazioni su [!UICONTROL bullet graph] visualizzazioni, visita [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL bullet graph], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).

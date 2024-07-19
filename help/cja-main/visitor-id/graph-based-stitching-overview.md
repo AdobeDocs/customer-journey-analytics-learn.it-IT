@@ -1,5 +1,5 @@
 ---
-title: Panoramica dell’unione basata su grafico
+title: Panoramica di unione basata sui grafici
 description: L’unione basata su grafico consente di sfruttare la potenza del grafico delle identità per allineare le identità tra le applicazioni AEP e consentire l’unione di più set di dati in CJA mediante un identificatore persona comune.
 feature: Stitching
 role: Admin, Developer
@@ -8,15 +8,15 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2024-06-05T00:00:00Z
 jira: KT-15651
-source-git-commit: bc00eebddc4f6706825d3b6647bd48e4e891d466
+exl-id: b5c16b6b-3a84-49f5-b29b-a753c35e2212
+source-git-commit: 24f3909672b9861611731632e6346f346efc4d24
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-
-# Panoramica dell’unione basata su grafico
+# Panoramica di unione basata sui grafici
 
 L’unione basata su grafico consente di sfruttare la potenza del grafico delle identità per allineare le identità tra le applicazioni AEP e consentire l’unione di più set di dati in CJA mediante un identificatore persona comune.
 

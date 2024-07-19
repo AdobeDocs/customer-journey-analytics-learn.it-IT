@@ -1,6 +1,6 @@
 ---
-title: Utilizzare [!UICONTROL scatterplot] visualizzazioni in [!DNL Analysis Workspace] progetti
-description: Scopri come utilizzare il [!UICONTROL scatterplot] visualizzazione in [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics].
+title: Usa visualizzazioni [!UICONTROL scatterplot] in [!DNL Analysis Workspace]  progetti
+description: Scopri come utilizzare la visualizzazione [!UICONTROL scatterplot] in [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics].
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13428
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 2733a815-c030-4fad-81d9-3f38fb1e7378
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# Utilizzare [!UICONTROL scatterplot] visualizzazioni in [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]
+# Usa visualizzazioni [!UICONTROL scatterplot] in [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]
 
-Scopri come utilizzare il [!UICONTROL scatterplot] visualizzazione in [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]. Questa visualizzazione mostra la relazione tra gli elementi dimensionali fino a tre metriche.
+Scopri come utilizzare la visualizzazione [!UICONTROL scatterplot] nei progetti [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]. Questa visualizzazione mostra la relazione tra gli elementi dimensionali fino a tre metriche.
 
 >[!NOTE]
 >
->Il [!DNL Analysis Workspace] l&#39;interfaccia utente e le funzioni sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
+>L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Per ulteriori informazioni su [!UICONTROL scatterplot] visualizzazioni, visita [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL scatterplot], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).
