@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
+source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 93%
    + [Configurazione di base per le visualizzazioni dati](data-views/basic-configuration-for-data-views.md)
    + [Configurare le impostazioni dei componenti nelle visualizzazioni dati](data-views/configuring-component-settings-in-data-views.md)
    + [Impostazioni del tipo di componente nelle visualizzazioni dati](data-views/component-type-settings-in-data-views.md)
+   + [Creare origini dati a livello di riepilogo](data-views/create-summary-level-data-sources.md)
    + [Creare campi derivati](data-views/derived-fields-in-cja.md)
    + [Utilizzare la funzione Math nei campi derivati](data-views/use-the-math-function-in-derived-fields.md)
    + [Utilizzare la funzione Successivo o Precedente nei campi derivati](data-views/use-the-next-previous-function-in-derived-fields.md)
@@ -67,7 +68,6 @@ ht-degree: 93%
       + [Aggiungere visualizzazioni del grafico bullet](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [Aggiungere visualizzazioni dell’anello](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Aggiungere visualizzazioni della riga](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [Utilizzare la visualizzazione mappa](analysis-workspace/visualizations/use-map-visualization.md)
       + [Utilizzare le visualizzazioni di riepilogo](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Aggiungere visualizzazioni di testo](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Utilizzare la visualizzazione con grafico a dispersione](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
