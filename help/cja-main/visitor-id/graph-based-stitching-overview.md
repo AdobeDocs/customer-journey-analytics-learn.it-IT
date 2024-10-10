@@ -1,6 +1,6 @@
 ---
 title: Panoramica di unione basata sui grafici
-description: L’unione basata su grafico consente di sfruttare la potenza del grafico delle identità per allineare le identità tra le applicazioni AEP e consentire l’unione di più set di dati in CJA mediante un identificatore persona comune.
+description: L’unione basata su grafo sfrutta la potenza del grafo delle identità per allineare le identità tra le applicazioni Experience Platform. Questa funzione consente di unire più set di dati nel Customer Journey Analytics utilizzando un identificatore persona comune.
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -9,21 +9,21 @@ duration: 301
 last-substantial-update: 2024-06-05T00:00:00Z
 jira: KT-15651
 exl-id: b5c16b6b-3a84-49f5-b29b-a753c35e2212
-source-git-commit: 24f3909672b9861611731632e6346f346efc4d24
+source-git-commit: 542a72671643df81cc44391e6c3585e54990a308
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 15%
+source-wordcount: '146'
+ht-degree: 4%
 
 ---
 
 # Panoramica di unione basata sui grafici
 
-L’unione basata su grafico consente di sfruttare la potenza del grafico delle identità per allineare le identità tra le applicazioni AEP e consentire l’unione di più set di dati in CJA mediante un identificatore persona comune.
+L’unione basata su grafo sfrutta la potenza del grafo delle identità per allineare le identità tra le applicazioni Experience Platform. Questa funzione consente di unire più set di dati nel Customer Journey Analytics utilizzando un identificatore persona comune.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
-Tramite l’unione basata su grafico, utilizziamo il grafico Identità per ottenere una migliore visualizzazione del Percorso del cliente tramite:
+L’unione basata su grafico che utilizza il grafo delle identità offre una visualizzazione migliore del Percorso del cliente tramite:
 
-* Unire set di dati con identificatori diversi senza dover ETL per riflettere un singolo identificatore
-* Miglioramento della copertura dell’identità preferita o d’oro per un singolo set di dati mediante la condivisione di identità tra set di dati diversi.
+* Riallineamento di uno o più set di dati a un singolo identificatore, anziché utilizzare un processo ETL complicato.
+* Miglioramento della copertura di un’identità preferita per un singolo set di dati rispetto ad altri set di dati condividendo l’identità.
 * Allineamento dei profili creati in Adobe Real-Time CDP e Adobe Journey Optimizer alle persone in Adobe Customer Journey Analytics.
