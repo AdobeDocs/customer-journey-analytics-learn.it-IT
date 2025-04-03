@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
+source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '474'
 ht-degree: 91%
 
 ---
@@ -112,6 +112,9 @@ ht-degree: 91%
       + [Pubblicazione dei tipi di pubblico](components/audiences/audience-publishing-for-cja.md)
    + Dizionario dati {#data-dictionary}
       + [Utilizzare il dizionario dei dati](components/data-dictionary/use-data-dictionary.md)
++ Analisi dei contenuti {#content-analytics}
+   + [Introduzione](content-analytics/introduction-to-content-analytics.md)
+   + [Come funziona](content-analytics/how-it-works.md)
 + Dashboard (scorecard) {#dashboards}
    + [Creare una scorecard per dispositivi mobili](dashboards/create-a-mobile-scorecard.md)
    + [Aiutare i dirigenti ad accedere alle scorecard per dispositivi mobili](dashboards/assist-executives-to-access-mobile-scorecards.md)
