@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 91%
+source-wordcount: '473'
+ht-degree: 84%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 91%
       + Analisi del percorso {#journey-analysis}
          + [Visualizzazione dell’area di lavoro del percorso](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Pannelli {#panels}
-      + [Configurare il pannello elemento successivo e precedente](analysis-workspace/panels/configure-next-previous-item-panel.md)
+      + [Configurare il pannello per l’elemento successivo e precedente](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Utilizzare il pannello di sperimentazione](analysis-workspace/panels/use-the-experimentation-panel.md)
    + Visualizzazioni {#visualizations}
       + [Creare visualizzazioni cross-channel](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
@@ -79,10 +79,10 @@ ht-degree: 91%
       + [Aggiungere previsioni alla visualizzazione](analysis-workspace/visualizations/forecasting.md)
    + Annotazioni {#annotations}
       + [Creare un’annotazione](analysis-workspace/annotations/create-an-annotation.md)
-   + Cura e condividi {#curate-and-share}
+   + Curare e condividere {#curate-and-share}
       + [Condividi con chiunque in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + Suggerimenti e trucchi {#tips-and-tricks}
-      + [Creare filtri a discesa dinamici](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+   + Suggerimenti {#tips-and-tricks}
+      + [Creare segmenti dinamici a discesa](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Panoramica di Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analisi guidata {#guided-analysis}
@@ -94,16 +94,16 @@ ht-degree: 91%
    + [Frequenza](guided-analysis/frequency.md)
    + [Funnel](guided-analysis/funnel.md)
    + [Crescita netta](guided-analysis/net-growth.md)
-   + [Impatto sulla versione](guided-analysis/release-impact.md)
-   + [Mantenimento](guided-analysis/retention.md)
+   + [Impatto della versione](guided-analysis/release-impact.md)
+   + [Conservazione](guided-analysis/retention.md)
    + [Timeline](guided-analysis/timeline.md)
    + [Tendenze](guided-analysis/trends.md)
 + Componenti {#components}
-   + Filtri (segmentazione) {#filters}
-      + [Panoramica dei filtri](components/filters/introduction-to-filters-in-cja.md)
-      + [Creare un filtro rapido](components/filters/create-a-quick-filter.md)
-      + [Creare filtri cross-channel](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [Utilizzare i filtri come dimensioni](components/filters/use-filters-as-dimensions.md)
+   + Segmenti {#filters}
+      + [Panoramica dei segmenti](components/filters/introduction-to-filters-in-cja.md)
+      + [Creare un segmento rapido](components/filters/create-a-quick-filter.md)
+      + [Creare segmenti cross-channel](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [Utilizzare i segmenti come dimensioni](components/filters/use-filters-as-dimensions.md)
       + [Spostare i segmenti di Adobe Analytics in Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + Metriche calcolate {#calc-metrics}
       + [Introduzione alle metriche calcolate in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -112,7 +112,7 @@ ht-degree: 91%
       + [Pubblicazione dei tipi di pubblico](components/audiences/audience-publishing-for-cja.md)
    + Dizionario dati {#data-dictionary}
       + [Utilizzare il dizionario dei dati](components/data-dictionary/use-data-dictionary.md)
-+ Analisi dei contenuti {#content-analytics}
++ Content Analytics {#content-analytics}
    + [Introduzione](content-analytics/introduction-to-content-analytics.md)
    + [Come funziona](content-analytics/how-it-works.md)
 + Dashboard (scorecard) {#dashboards}
@@ -123,7 +123,7 @@ ht-degree: 91%
    + Report Builder {#report-builder}
       + [Report Builder per Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [Pianifica cartelle di lavoro di Customer Journey Analytics tramite Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Integrazione Experience Platform {#experience-platform-integration}
++ Integrazione di Experience Platform {#experience-platform-integration}
    + [Generazione rapporti migliorata per Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Casi d’uso {#use-cases}
    + Casi d’uso per le visualizzazioni dati {#data-views-use-cases}
@@ -133,5 +133,5 @@ ht-degree: 91%
       + [Utilizzare gli array di oggetti](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
    + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
