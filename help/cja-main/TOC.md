@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: a2fd948c72f78995ab979e4256bcf461697c2897
 workflow-type: tm+mt
-source-wordcount: '473'
-ht-degree: 84%
+source-wordcount: '478'
+ht-degree: 83%
 
 ---
 
@@ -62,6 +62,7 @@ ht-degree: 84%
    + Pannelli {#panels}
       + [Configurare il pannello per l’elemento successivo e precedente](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Utilizzare il pannello di sperimentazione](analysis-workspace/panels/use-the-experimentation-panel.md)
+      + [Utilizzare il pannello Quick Insights (Approfondimenti rapidi)](analysis-workspace/panels/use-the-quick-insights-panel.md)
    + Visualizzazioni {#visualizations}
       + [Creare visualizzazioni cross-channel](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [Attribuzione cross-channel](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
