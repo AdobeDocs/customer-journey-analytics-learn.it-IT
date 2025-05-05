@@ -18,6 +18,6 @@ ht-degree: 10%
 
 # Modelli Analysis Workspace
 
-Non desideri partire da zero? Scopri come avviare l’analisi in Workspace con un modello Workspace. Puoi scegliere da un modello di Adobe curato o crearne uno personalizzato per un modello organizzativo personalizzato. Cerca solo il modello giusto nella vista a schede o nella vista a colonne, a seconda delle tue preferenze. Per la documentazione dettagliata, consulta [Creare e gestire modelli](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=en){target="_blank"}.
+Non desideri partire da zero? Scopri come avviare l’analisi in Workspace con un modello Workspace. Puoi scegliere da un modello di Adobe curato o crearne uno personalizzato per un modello organizzativo personalizzato. Cerca solo il modello giusto nella vista a schede o nella vista a colonne, a seconda delle tue preferenze. Per la documentazione dettagliata, consulta [Creare e gestire modelli](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=en){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443169/?learn=on&enablevpops)

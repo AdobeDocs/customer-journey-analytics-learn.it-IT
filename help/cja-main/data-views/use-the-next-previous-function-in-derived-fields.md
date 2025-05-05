@@ -21,4 +21,4 @@ Scopri come utilizzare la funzione &quot;Successivo o Precedente&quot; nel Custo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-dataviews/derived-fields).

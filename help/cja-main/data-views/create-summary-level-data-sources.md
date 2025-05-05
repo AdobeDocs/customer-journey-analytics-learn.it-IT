@@ -22,4 +22,4 @@ Il Customer Journey Analytics supporta dati di riepilogo che consentono agli ute
 
 ## Risorse aggiuntive
 
-* Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data)
+* Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-dataviews/summary-data)
