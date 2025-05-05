@@ -20,6 +20,6 @@ ht-degree: 11%
 
 Scopri in che modo la **crescita netta** nel Customer Journey Analytics fornisce informazioni sulla frequenza con cui si acquisiscono o si perdono utenti in un periodo specifico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423462/?learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=it).

@@ -25,6 +25,6 @@ Scopri come aggiungere e configurare visualizzazioni di [!UICONTROL text] nei pr
 >
 >L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329903/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL text], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=it).

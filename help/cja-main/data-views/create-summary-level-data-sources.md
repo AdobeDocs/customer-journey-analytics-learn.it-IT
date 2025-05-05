@@ -18,7 +18,7 @@ ht-degree: 7%
 
 Il Customer Journey Analytics supporta dati di riepilogo che consentono agli utenti di aggregare e analizzare dati non organizzati per singoli ID, ad esempio i dati di campagne o prodotti. Viene descritto il processo di integrazione di questi dati di riepilogo in Experience Platform, che include la creazione di connessioni, la configurazione di visualizzazioni dati e la combinazione di dati di riepilogo con dati evento per un reporting completo. Questa funzionalità consente di ottenere informazioni più approfondite sulle prestazioni delle campagne e migliora la flessibilità di reporting in CJA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449417/?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

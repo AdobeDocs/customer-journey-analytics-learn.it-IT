@@ -20,6 +20,6 @@ ht-degree: 1%
 
 Scopri la visualizzazione dell’area di lavoro del percorso, che consente di analizzare e ottenere informazioni approfondite sui percorsi forniti a utenti e clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440634/?learn=on&captions=ita)
 
 Gli utenti possono creare percorsi con più avvii, percorsi o terminazioni. Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}.

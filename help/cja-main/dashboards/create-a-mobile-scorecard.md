@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Questo video illustra come creare una scorecard per dispositivi mobili utilizzando [!DNL Scorecard Builder] in [!DNL Customer Journey Analytics]. Fornisci in qualsiasi momento ai dirigenti l’accesso a metriche delle prestazioni chiave e a visualizzazioni dettagliate o raggruppamenti. [!DNL Scorecard Builder] fornisce un’interfaccia di facile utilizzo che consente di produrre dashboard multicanale utilizzando le visualizzazioni dati di [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/343458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409730/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=it).

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come pianificare cartelle di lavoro in Report Builder per Customer Journey Analytics. La pianificazione delle cartelle di lavoro consente agli utenti di automatizzare il processo di aggiornamento delle cartelle di lavoro di Report Builder con i dati più recenti e di inviarle alle parti interessate in base a una pianificazione regolare e predefinita.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413079/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417505/?quality=12&learn=on&captions=ita)

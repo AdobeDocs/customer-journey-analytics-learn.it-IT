@@ -20,4 +20,4 @@ ht-degree: 52%
 
 Scopri come aggiungere numeri di previsione alla visualizzazione delle serie temporali in Customer Journey Analytics. Per la documentazione dettagliata, visita [Panoramica delle previsioni](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428021/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443841/?learn=on&captions=ita)

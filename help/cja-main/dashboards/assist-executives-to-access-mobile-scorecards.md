@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Aiuta i dirigenti ad accedere alle scorecard per dispositivi mobili create in [!DNL Customer Journey Analytics] utilizzando l’app mobile per dashboard di [!DNL Analytics].  Le scorecard per dispositivi mobili consentono di accedere in qualsiasi momento a metriche delle prestazioni chiave, visualizzazioni dettagliate o raggruppamenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444844/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=it).

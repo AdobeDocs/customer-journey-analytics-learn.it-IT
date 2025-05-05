@@ -19,6 +19,6 @@ ht-degree: 18%
 
 Scopri di più sulla **timeline** in Customer Journey Analytics, che consente di individuare i pattern di esperienza, raccontare storie di utenti migliori e convalidare l&#39;implementazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435775/?learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/guided-analysis/streams/timeline).

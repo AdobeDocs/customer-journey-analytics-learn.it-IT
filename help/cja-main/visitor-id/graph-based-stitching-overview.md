@@ -20,7 +20,7 @@ ht-degree: 4%
 
 L’unione basata su grafo sfrutta la potenza del grafo delle identità per allineare le identità tra le applicazioni Experience Platform. Questa funzione consente di unire più set di dati nel Customer Journey Analytics utilizzando un identificatore persona comune.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448724/?learn=on&captions=ita)
 
 L’unione basata su grafico che utilizza il grafo delle identità offre una visualizzazione migliore del Percorso del cliente tramite:
 

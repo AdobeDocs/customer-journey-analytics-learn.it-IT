@@ -20,6 +20,6 @@ ht-degree: 9%
 
 Scopri come l&#39;**impatto primo utilizzo** nel Customer Journey Analytics mostra un confronto tra le prestazioni degli indicatori chiave prima e dopo che un utente utilizza una funzione del prodotto per la prima volta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423497/?learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=it).

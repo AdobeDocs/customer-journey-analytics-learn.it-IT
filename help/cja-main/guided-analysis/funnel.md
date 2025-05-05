@@ -20,10 +20,10 @@ ht-degree: 8%
 
 Scopri in che modo **funnel** in Customer Journey Analytics fornisce una rappresentazione visiva di un percorso di utenti critico nel tuo prodotto e ti aiuta a determinare dove c&#39;è attrito.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431274/?learn=on&captions=ita)
 
 Puoi anche confrontare più eventi in un singolo passaggio funnel, creando un &quot;funnel fork&quot;. Questo &quot;funnel biforcato&quot; consente di confrontare l’attrito di due percorsi uno accanto all’altro, il che può essere utile quando sono presenti opzioni di passaggio o quando un esperimento A/B viene eseguito all’interno del funnel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445807/?learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/guided-analysis/funnel/friction).

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Durante la configurazione delle Visualizzazioni dati in Customer Journey Analytics, puoi scegliere se e come visualizzare l’opzione -nessun valore- nei rapporti.
 
->[!VIDEO](https://video.tv.adobe.com/v/333113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412942/?quality=12&learn=on&captions=ita)
