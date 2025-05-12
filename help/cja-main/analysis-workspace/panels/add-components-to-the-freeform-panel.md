@@ -19,6 +19,6 @@ ht-degree: 12%
 
 Utilizza i pannelli a forma libera per esplorare, confrontare e correlare i dati sulla customer experience tramite un’interfaccia flessibile e con funzionalità di trascinamento della selezione.
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/panels/freeform-panel).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)
