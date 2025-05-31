@@ -20,4 +20,4 @@ ht-degree: 0%
 Esplora l’area di lavoro Percorsi in CJA, un potente strumento di visualizzazione per la creazione di funnel con più passaggi e l’analisi di percorsi di utenti.
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460162/?learn=on&enablevpops=true&captions=ita)
