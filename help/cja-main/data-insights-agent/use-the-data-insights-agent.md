@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Analizza i dati utilizzando i prompt del linguaggio naturale, generando tabelle a forma libera, visualizzazioni e confronti di dati, riducendo la dipendenza dagli analisti di dati. Questo agente basato sull’intelligenza artificiale fornisce informazioni rapide su tendenze e prestazioni, consentendo di condividere informazioni fruibili con le parti interessate senza ritardi.
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463897/?learn=on&enablevpops)
