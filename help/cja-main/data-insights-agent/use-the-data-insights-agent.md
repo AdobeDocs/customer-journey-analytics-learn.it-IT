@@ -21,4 +21,4 @@ Analizza i dati utilizzando i prompt del linguaggio naturale, generando tabelle 
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463927/?learn=on&enablevpops&captions=ita)
