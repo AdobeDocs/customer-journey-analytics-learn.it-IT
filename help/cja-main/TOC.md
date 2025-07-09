@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
+source-git-commit: 27d553634dad11f8c0a9554ed8079d7d87169f32
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '508'
 ht-degree: 81%
 
 ---
@@ -67,6 +67,7 @@ ht-degree: 81%
          + [Visualizzazione dell’area di lavoro del percorso](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Pannelli {#panels}
       + [Aggiungere componenti al pannello a forma libera](analysis-workspace/panels/add-components-to-the-freeform-panel.md)
+      + [Creare il pannello di attribuzione](analysis-workspace/panels/build-the-attribution-panel.md)
       + [Configurare il pannello per l’elemento successivo e precedente](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Utilizzare il pannello di sperimentazione](analysis-workspace/panels/use-the-experimentation-panel.md)
       + [Utilizzare il pannello Quick Insights (Approfondimenti rapidi)](analysis-workspace/panels/use-the-quick-insights-panel.md)
@@ -142,6 +143,6 @@ ht-degree: 81%
    + Dati complessi {#complex-data}
       + [Utilizzare gli array di oggetti](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/it/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
