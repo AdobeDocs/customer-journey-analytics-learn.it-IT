@@ -21,4 +21,4 @@ Utilizzare Gestione attività di reporting in [!DNL Customer Journey Analytics] 
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470322/?learn=on&captions=ita)
