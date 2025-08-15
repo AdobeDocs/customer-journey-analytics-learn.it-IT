@@ -18,6 +18,6 @@ ht-degree: 7%
 
 # Configurare e utilizzare la visualizzazione mappa
 
-Dai vita ai dati della posizione con la visualizzazione mappa. Identifica i cluster geografici e crea segmenti al volo utilizzando lo strumento di selezione. Solo alcuni semplici passaggi di configurazione e sei pronto per iniziare. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
+Dai vita ai dati della posizione con la visualizzazione mappa. Identifica i cluster geografici e crea segmenti al volo utilizzando lo strumento di selezione. Solo alcuni semplici passaggi di configurazione e sei pronto per iniziare. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)
