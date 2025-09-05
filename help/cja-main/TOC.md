@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: bdce32ca64fd14aeb760113b8df6ca96988069ce
+source-git-commit: 889305cbdb9e9301445c511b82aafa51a0ab6069
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '550'
 ht-degree: 77%
 
 ---
@@ -139,6 +139,7 @@ ht-degree: 77%
    + [Come funziona](content-analytics/how-it-works.md)
    + [Crea configurazione](content-analytics/create-configuration.md)
    + [Modifica configurazione](content-analytics/edit-configuration.md)
+   + [Reporting](content-analytics/reporting.md)
 + Dashboard (scorecard) {#dashboards}
    + [Creare una scorecard per dispositivi mobili](dashboards/create-a-mobile-scorecard.md)
    + [Aiutare i dirigenti ad accedere alle scorecard per dispositivi mobili](dashboards/assist-executives-to-access-mobile-scorecards.md)
@@ -158,6 +159,6 @@ ht-degree: 77%
    + Dati complessi {#complex-data}
       + [Utilizzare gli array di oggetti](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/it/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
