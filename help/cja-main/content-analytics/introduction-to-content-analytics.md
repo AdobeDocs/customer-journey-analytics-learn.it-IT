@@ -25,7 +25,7 @@ Per ulteriori informazioni, consulta la [documentazione](https://experienceleagu
 
 Content Analytics utilizza l’infrastruttura AI e Experience Platform per rivelare ciò che rende i contenuti efficaci. I team possono ottimizzare il coinvolgimento, favorire le conversioni e prendere decisioni più intelligenti e basate sui dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457318/?learn=on&enablevpops&captions=ita)
 
 
 ## Come funziona
@@ -41,7 +41,7 @@ Content Analytics utilizza l’infrastruttura AI e Experience Platform per rivel
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics - Come funziona" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Come funziona"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457435/?format=jpeg&nocache=1742338375674&captions=ita" alt="Content Analytics - Come funziona"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Content Analytics utilizza l’infrastruttura AI e Experience Platform per rivel
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - Generazione rapporti" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Generazione rapporti"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473045/?format=jpeg&nocache=1742338375674&captions=ita" alt="Content Analytics - Generazione rapporti"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
