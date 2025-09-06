@@ -21,4 +21,4 @@ Scopri come configurare la profondità dell’evento nei campi derivati da Custo
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471051/?learn=on&captions=ita)
