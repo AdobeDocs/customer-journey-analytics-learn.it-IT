@@ -1,6 +1,6 @@
 ---
 title: Creare didascalie intelligenti
-description: Scopri come abilitare i sottotitoli intelligenti nelle visualizzazioni in modo da ottenere informazioni in linguaggio naturale create automaticamente per te sui dati.
+description: Scopri come abilitare i sottotitoli intelligenti nelle visualizzazioni in modo da ottenere informazioni sui dati create automaticamente per te in un linguaggio naturale.
 feature: Visualizations
 role: User
 level: Beginner
@@ -12,14 +12,14 @@ exl-id: 0ac3b231-97d3-4937-b15b-0e30b4f9de2a
 source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 20%
+ht-degree: 98%
 
 ---
 
 # Creare didascalie intelligenti
 
-Scopri come abilitare i sottotitoli intelligenti nelle visualizzazioni in modo da ottenere informazioni in linguaggio naturale create automaticamente per te sui dati.
+Scopri come abilitare i sottotitoli intelligenti nelle visualizzazioni in modo da ottenere informazioni sui dati create automaticamente per te in un linguaggio naturale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443146/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=it).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en).

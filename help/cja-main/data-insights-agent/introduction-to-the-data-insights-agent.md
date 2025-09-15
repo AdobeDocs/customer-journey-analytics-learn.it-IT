@@ -1,16 +1,17 @@
 ---
 title: Introduzione a Data Insights Agent
-description: Scopri Data Insights Agent in Customer Journey Analytics. Questa soluzione basata sull’intelligenza artificiale supera i colli di bottiglia aziendali fornendo informazioni istantanee e trasparenti agli esperti di marketing.
+description: Informazioni sull’Agente Data Insights in Customer Journey Analytics. Questa soluzione basata sull’intelligenza artificiale elimina gli ostacoli aziendali fornendo informazioni approfondite istantanee e trasparenti ai marketer.
 feature: AI Tools
 role: Leader, User
 level: Beginner
 duration: 222
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18320
-source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
+exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
+source-git-commit: ba8abb197b3bb2ba3d725c9575cba400bbe1bb76
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
@@ -24,7 +25,7 @@ Per ulteriori informazioni, consulta la [documentazione](https://experienceleagu
 
 Informazioni su [!DNL Data Insights Agent] in Customer Journey Analytics. Questa soluzione basata sull’intelligenza artificiale fornisce informazioni istantanee e trasparenti agli esperti di marketing e alle parti interessate, eliminando ritardi e formazioni estese e liberando gli analisti per attività strategiche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463905/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
 
 
 ## Casi d’uso di Data Insights Agent
@@ -40,7 +41,7 @@ Informazioni su [!DNL Data Insights Agent] in Customer Journey Analytics. Questa
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Casi d’uso di Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463916/?format=jpeg&nocache=1742338375674&captions=ita" alt="Casi d’uso di Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Casi d’uso di Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -48,12 +49,12 @@ Informazioni su [!DNL Data Insights Agent] in Customer Journey Analytics. Questa
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" title="Casi d’uso di Data Insights Agent">Casi di utilizzo di Data Insights Agent</a>
+                        <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" title="Casi d’uso di Data Insights Agent">Casi d’uso dell’Agente Data Insights</a>
                     </p>
-                    <p class="is-size-6">Migliora l’efficienza nello sviluppo di strategie di marketing, nella gestione di campagne e nel reporting sulle prestazioni aziendali.</p>
+                    <p class="is-size-6">Migliorare l’efficienza nello sviluppo di strategie di marketing, nella gestione di campagne e nel reporting sulle prestazioni aziendali.</p>
                 </div>
                 <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -74,7 +75,7 @@ Informazioni su [!DNL Data Insights Agent] in Customer Journey Analytics. Questa
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="Utilizzare Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463927/?format=jpeg&nocache=1742338375674&captions=ita" alt="Utilizzare Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="Utilizzare Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,12 +83,12 @@ Informazioni su [!DNL Data Insights Agent] in Customer Journey Analytics. Questa
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="use-the-data-insights-agent.md" target="_blank" rel="referrer" title="Utilizzare Data Insights Agent">Utilizza Data Insights Agent</a>
+                        <a href="use-the-data-insights-agent.md" target="_blank" rel="referrer" title="Utilizzare Data Insights Agent">Utilizzo dell’Agente Data Insights</a>
                     </p>
                     <p class="is-size-6">Analizza i dati utilizzando prompt del linguaggio naturale, generando tabelle a forma libera, visualizzazioni e confronti di dati.</p>
                 </div>
                 <a href="use-the-data-insights-agent.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
