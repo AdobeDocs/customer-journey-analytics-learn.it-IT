@@ -20,6 +20,6 @@ ht-degree: 98%
 
 Scopri come abilitare i sottotitoli intelligenti nelle visualizzazioni in modo da ottenere informazioni sui dati create automaticamente per te in un linguaggio naturale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443146/?learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=it).
