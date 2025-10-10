@@ -20,6 +20,6 @@ ht-degree: 10%
 
 Scopri come utilizzare il pannello di attribuzione in [!DNL Customer Journey Analytics]. Questo video illustra come definire le metriche di successo, selezionare e confrontare modelli di attribuzione e personalizzare visualizzazioni quali grafici a barre, diagrammi di Venn e flusso di canale per ottenere informazioni approfondite sulle interazioni del percorso di clienti.
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/attribution).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/panels/attribution).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)
