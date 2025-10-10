@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri come l’intelligenza artificiale generativa sta trasformando Customer Journey Analytics presentando informazioni approfondite, dando maggiore potere agli utenti e rendendo l’analisi dei dati più accessibile.
 
 <!-- 62_S106_3442453_47_how-genai-enhances-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460003/?learn=on&enablevpops=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3458377/?learn=on&enablevpops=true)

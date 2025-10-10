@@ -25,6 +25,6 @@ Scopri come aggiungere e configurare le visualizzazioni standard [!UICONTROL bar
 >
 >L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/3416620/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL bar], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=it).
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL bar], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).

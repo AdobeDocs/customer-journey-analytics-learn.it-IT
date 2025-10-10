@@ -20,4 +20,4 @@ ht-degree: 100%
 
 La Gestione connessioni consente di controllare lo stato dell’acquisizione dei set di dati della connessione. Inoltre questa interfaccia ti informa quando sono disponibili i dati per avviare l’analisi in Workspace. Scopri come identificare le discrepanze di dati dovute a configurazioni errate, gestire le date di importazione dei dati e rimuovere i set di dati dalle connessioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/345572/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)

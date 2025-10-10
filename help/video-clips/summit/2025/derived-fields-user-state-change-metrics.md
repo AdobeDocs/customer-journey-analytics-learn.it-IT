@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri come creare metriche per le transizioni degli utenti, ad esempio il passaggio da silver a gold, e attribuirle ai canali di marketing utilizzando campi derivati in CJA.
 
 <!-- 85_S103_3442450_125_derived-fields-user-state-change-metrics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460041/?learn=on&enablevpops=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3458355/?learn=on&enablevpops=true)

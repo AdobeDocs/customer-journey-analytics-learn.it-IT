@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Questo video illustra i termini e i concetti chiave di Customer Journey Analytics, come corrispondono ai termini e ai concetti di Adobe Analytics e dove si trovano nell’interfaccia di Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/36166/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
 
 Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it).

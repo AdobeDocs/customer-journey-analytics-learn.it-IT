@@ -20,4 +20,4 @@ ht-degree: 0%
 Esplora i due tipi di unione delle identità in CJA, basata sui campi e basata su grafico, e come consentono l’analisi omnicanale.
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460011/?learn=on&enablevpops=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3458335/?learn=on&enablevpops=true)

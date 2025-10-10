@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Scopri come utilizzare i metodi di manipolazione delle stringhe per ottenere la porzione desiderata di valori di dimensione nei rapporti sui Customer Journey Analytics. Una volta applicata, la trasformazione dei dati avviene retroattivamente e immediatamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411148/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=it).

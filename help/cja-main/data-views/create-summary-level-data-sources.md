@@ -1,24 +1,25 @@
 ---
 title: Creare origini dati a livello di riepilogo
-description: Il Customer Journey Analytics supporta dati di riepilogo che consentono agli utenti di aggregare e analizzare dati non organizzati per singoli ID, ad esempio i dati di campagne o prodotti.
+description: Customer Journey Analytics supporta dati di riepilogo che consentono agli utenti di aggregare e analizzare dati non organizzati per singoli ID, come i dati di campagne o prodotti.
 feature: Data Views
 doc-type: feature video
 thumbnail: 3433305.jpg
 kt: 16134
 role: Admin
 level: Intermediate
-source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
+exl-id: 709f1649-9a8b-46c7-b2e9-3b89d828d8f8
+source-git-commit: 0ca77a998d57b7302b982a0a7bfe8d45c1068aff
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Creazione di origini dati a livello di riepilogo nel Customer Journey Analytics
+# Creazione di origini dati a livello di riepilogo in Customer Journey Analytics
 
-Il Customer Journey Analytics supporta dati di riepilogo che consentono agli utenti di aggregare e analizzare dati non organizzati per singoli ID, ad esempio i dati di campagne o prodotti. Viene descritto il processo di integrazione di questi dati di riepilogo in Experience Platform, che include la creazione di connessioni, la configurazione di visualizzazioni dati e la combinazione di dati di riepilogo con dati evento per un reporting completo. Questa funzionalità consente di ottenere informazioni più approfondite sulle prestazioni delle campagne e migliora la flessibilità di reporting in CJA.
+Customer Journey Analytics supporta dati di riepilogo che consentono agli utenti di aggregare e analizzare dati non organizzati per singoli ID, come i dati di campagne o prodotti. Viene descritto il processo di integrazione di questi dati di riepilogo in Experience Platform, che include la creazione di connessioni, la configurazione di visualizzazioni dati e la combinazione di dati di riepilogo con dati evento per un reporting completo. Questa funzionalità consente di ottenere informazioni più approfondite sulle prestazioni delle campagne e migliora la flessibilità di reporting all’interno di CJA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449417/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
 
 ## Risorse aggiuntive
 

@@ -1,6 +1,6 @@
 ---
-title: Esportazione di tabelle complete nel Customer Journey Analytics
-description: Scopri la configurazione di base di una tabella di consegna dal Customer Journey Analytics sia alla zona di destinazione dati di AEP che al Snowflake.
+title: Esportazione di tabelle complete in Customer Journey Analytics
+description: Scopri la configurazione di base di una tabella di consegna da Customer Journey Analytics ad AEP Data Landing Zone e Snowflake.
 feature: Curate and Share
 role: User
 level: Intermediate
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ---
 
-# Esportazione di tabelle complete nel Customer Journey Analytics
+# Esportazione di tabelle complete in Customer Journey Analytics
 
-Scopri la configurazione di base di una tabella di consegna dal Customer Journey Analytics sia alla zona di destinazione dati di AEP che al Snowflake. Per la documentazione dettagliata, visita [Esporta report di Customer Journey Analytics nel cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=it).
+Scopri la configurazione di base di una tabella di consegna da Customer Journey Analytics ad AEP Data Landing Zone e Snowflake. Per la documentazione dettagliata, visita [Esporta report Customer Journey Analytics nel cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=it).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 

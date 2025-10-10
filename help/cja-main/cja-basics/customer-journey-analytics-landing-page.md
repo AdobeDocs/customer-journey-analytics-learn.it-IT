@@ -19,6 +19,6 @@ ht-degree: 100%
 
 La pagina di destinazione di Customer Journey Analytics include una visualizzazione predefinita dei progetti e delle scorecard per dispositivi mobili e una sezione di apprendimento per aiutarti a iniziare in modo più efficace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409307/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=it).

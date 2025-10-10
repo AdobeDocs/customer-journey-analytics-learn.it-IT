@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Come si indirizza un set di dati che non dispone di un ID persona da configurare in una connessione di Customer Journey Analytics? Per vedere come si fa, guarda questo video.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422074/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3417726/?quality=12&learn=on)

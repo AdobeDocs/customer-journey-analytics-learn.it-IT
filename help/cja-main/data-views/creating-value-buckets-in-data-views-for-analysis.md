@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Quando si configura una [!UICONTROL Data View] in Customer Journey Analytics, è possibile impostare una dimensione numerica da inserire nei contenitori definiti, in modo da limitare il numero di elementi disponibili per la tabella a intervalli di numeri (molto interessante). Questo video illustra la configurazione di questa funzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412359/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)

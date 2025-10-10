@@ -20,6 +20,6 @@ ht-degree: 5%
 
 Scopri il potenziale dell’utilizzo delle funzioni matematiche per la creazione di campi derivati in Customer Journey Analytics, in questo tutorial video. Scopri come regolare le metriche rimuovendo i componenti indesiderati come le imposte dai totali e i vantaggi dell’utilizzo di campi derivati rispetto alle metriche calcolate, comprese le funzioni esclusive per la visualizzazione dati come deduplicazione, bucket e attribuzione. Ottieni la flessibilità necessaria per creare metriche personalizzate in linea con le tue esigenze di analisi, migliorando le funzionalità decisionali basate sui dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447217?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-dataviews/derived-fields).

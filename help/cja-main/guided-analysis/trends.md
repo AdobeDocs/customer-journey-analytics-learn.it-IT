@@ -1,6 +1,6 @@
 ---
 title: Tendenze
-description: Scopri le tendenze di Customer Journey Analytics, che fornisce informazioni utili sulle prestazioni del prodotto o sul coinvolgimento degli utenti nel tempo.
+description: Scopri le tendenze in Customer Journey Analytics, che fornisce ad insight informazioni preziose sulle prestazioni del prodotto o sul coinvolgimento degli utenti nel tempo.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 18%
 
 # Tendenze
 
-Scopri le **tendenze** in Customer Journey Analytics, che forniscono informazioni utili sulle prestazioni del prodotto o sul coinvolgimento degli utenti nel tempo.
+Scopri le **tendenze** in Customer Journey Analytics, che fornisce ad insight informazioni preziose sulle prestazioni del tuo prodotto o sul coinvolgimento degli utenti nel tempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423441/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=it).

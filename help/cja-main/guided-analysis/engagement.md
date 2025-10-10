@@ -1,6 +1,6 @@
 ---
 title: Coinvolgimento
-description: Scopri in che modo il coinvolgimento nel Customer Journey Analytics fornisce informazioni sulla frequenza di utilizzo delle funzioni dei prodotti rispetto al numero di persone che le utilizzano.
+description: Scopri come il coinvolgimento in Customer Journey Analytics fornisce informazioni sulla frequenza di utilizzo delle funzioni dei prodotti rispetto al numero di persone che le utilizzano.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 15%
 
 # Coinvolgimento
 
-Scopri in che modo il **coinvolgimento** in Customer Journey Analytics fornisce approfondimenti sulla frequenza di utilizzo delle funzionalità dei prodotti rispetto al numero di persone che le utilizzano.
+Scopri in che modo il **coinvolgimento** in Customer Journey Analytics fornisce informazioni sulla frequenza di utilizzo delle funzionalità dei prodotti rispetto al numero di persone che le utilizzano.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447475?captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).

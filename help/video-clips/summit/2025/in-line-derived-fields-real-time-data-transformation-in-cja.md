@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri come i campi derivati in linea consentono agli utenti di pulire e raggruppare i dati direttamente in Customer Journey Analytics, riducendo la dipendenza dagli amministratori e risparmiando tempo.
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
->[!VIDEO](https://video.tv.adobe.com/v/3460294/?learn=on&enablevpops=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3458362/?learn=on&enablevpops=true)

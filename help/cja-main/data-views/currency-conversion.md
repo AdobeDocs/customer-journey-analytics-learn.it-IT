@@ -20,4 +20,4 @@ ht-degree: 1%
 
 Conversione della valuta nelle analisi per percorso di clienti tramite un’impostazione in Visualizzazioni dati. Utilizza questa funzionalità per creare più metriche da visualizzare in valute diverse. Per la documentazione dettagliata, visita [Formattare le impostazioni del componente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=it#currency).
 
->[!VIDEO](https://video.tv.adobe.com/v/3447532/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)

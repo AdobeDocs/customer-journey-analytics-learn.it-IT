@@ -1,6 +1,6 @@
 ---
-title: Impatto sulla versione
-description: Scopri come l’impatto delle versioni di in Customer Journey Analytics mostra un confronto tra le prestazioni degli indicatori chiave prima e dopo una determinata data.
+title: Impatto della versione
+description: Scopri come l’impatto sulle versioni in Customer Journey Analytics mostra un confronto tra le prestazioni degli indicatori chiave prima e dopo una determinata data.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -12,14 +12,14 @@ exl-id: 45ed4bf8-091e-4a08-a245-cc1ef226cbb9
 source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 12%
+ht-degree: 19%
 
 ---
 
-# Impatto sulla versione
+# Impatto della versione
 
-Scopri in che modo **l&#39;impatto sulla versione** nel Customer Journey Analytics mostra un confronto tra le prestazioni degli indicatori chiave prima e dopo una determinata data.
+Scopri in che modo **l&#39;impatto sulla versione** in Customer Journey Analytics mostra un confronto tra le prestazioni degli indicatori chiave prima e dopo una determinata data.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423450/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=it).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html).

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come generare tabelle e visualizzazioni per identificare l’elemento successivo o precedente per un valore di dimensione specifico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411117/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/344430/?quality=12&learn=on)

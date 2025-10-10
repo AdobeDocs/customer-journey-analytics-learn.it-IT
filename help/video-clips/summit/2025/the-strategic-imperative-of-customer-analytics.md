@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri perché passare dall’analisi basata su dispositivi all’analisi incentrata sul cliente è una necessità competitiva e in che modo Customer Journey Analytics offre un valore univoco.
 
 <!-- 62_S112_3442459_101_the-strategic-imperative-of-customer-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3463009/?learn=on&enablevpops=true&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3458322/?learn=on&enablevpops=true)

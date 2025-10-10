@@ -18,10 +18,10 @@ ht-degree: 9%
 
 # Usa [!DNL segments] come dimensioni nei progetti Analysis Workspace
 
-Scopri come confrontare e visualizzare i segmenti utilizzati come dimensioni nei progetti Analysis Workspace. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
+Scopri come confrontare e visualizzare i segmenti utilizzati come dimensioni nei progetti Analysis Workspace. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
 
 >[!NOTE]
 >
 > &quot;[!UICONTROL Filters]&quot; sono stati rinominati &quot;[!UICONTROL segments]&quot; nell&#39;interfaccia Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449070/?learn=on&quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)

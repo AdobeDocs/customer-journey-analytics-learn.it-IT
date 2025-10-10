@@ -1,6 +1,6 @@
 ---
-title: Mantenimento
-description: Esplora la conservazione nel Customer Journey Analytics. Scopri come utilizzare gli eventi di inizio e ritorno per misurare in modo efficace il coinvolgimento e la fidelizzazione degli utenti.
+title: Conservazione
+description: Esplora la conservazione in Customer Journey Analytics. Scopri come utilizzare gli eventi di inizio e ritorno per misurare in modo efficace il coinvolgimento e la fidelizzazione degli utenti.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -16,12 +16,12 @@ ht-degree: 37%
 
 ---
 
-# Mantenimento
+# Conservazione
 
-Esplora **mantenimento** nel Customer Journey Analytics. Scopri come utilizzare gli eventi di inizio e ritorno per misurare in modo efficace il coinvolgimento e la fidelizzazione degli utenti.
+Esplora **mantenimento** in Customer Journey Analytics. Scopri come utilizzare gli eventi di inizio e ritorno per misurare in modo efficace il coinvolgimento e la fidelizzazione degli utenti.
 
 Scopri come utilizzare gli eventi di inizio e ritorno per misurare in modo efficace il coinvolgimento e la fidelizzazione degli utenti. Il tutorial illustra anche come regolare le impostazioni di conservazione per diversi modelli di business, sia che si stia eseguendo un sito web di viaggi, una piattaforma di e-commerce o uno strumento di produttività. Suggerimenti pratici sull&#39;utilizzo dei dati di conservazione per ottimizzare l&#39;adattamento al mercato dei prodotti e favorire il coinvolgimento degli utenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435786/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/guided-analysis/retention/retention-rates).
