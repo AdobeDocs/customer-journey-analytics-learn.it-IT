@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Questo video illustra come utilizzare le funzioni di preparazione dei dati per Analytics, incluse le funzioni di manipolazione, come la mappatura delle variabili di Analytics in nuovi campi personalizzati e l’esecuzione di trasformazioni e calcoli. Queste attività vengono eseguite nel flusso di lavoro Connessioni di origine di Analytics, in Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430258?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione del connettore di origine Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=it) e la [documentazione sulle funzioni di preparazione dei dati](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=it).

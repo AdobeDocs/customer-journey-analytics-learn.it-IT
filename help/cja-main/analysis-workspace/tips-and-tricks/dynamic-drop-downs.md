@@ -24,4 +24,4 @@ Scopri come creare segmenti a discesa basati su un’intera dimensione. Gli elem
 >
 > &quot;[!UICONTROL Filters]&quot; sono stati rinominati &quot;[!UICONTROL segments]&quot; nell&#39;interfaccia Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446824/?learn=on&captions=ita)

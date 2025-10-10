@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Ciascuna dimensione deve avere un’impostazione di allocazione (per decidere a quale valore viene attribuita la conversione) e un’impostazione di scadenza (per quanto tempo il valore persiste), in modo che il sistema sappia come assegnare valore alle varie dimensioni. Allo stesso modo, e lavorando insieme, le metriche devono avere impostato anche un modello di attribuzione e un intervallo di lookback. Questo video spiega come definire queste importanti impostazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/30185/?quality=12&enable10seconds=on&speedcontrol=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412954/?quality=12&enable10seconds=on&speedcontrol=on&captions=ita)

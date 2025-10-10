@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri come l’Assistente AI di Adobe fornisce informazioni istantanee sui dati, trasformando i flussi di lavoro con query in linguaggio naturale e risultati fruibili.
 
 <!-- 72_S653_3442539_81_how-ai-assistant-transforms-data-insights-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3458305/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3459920/?learn=on&enablevpops=true&captions=ita)

@@ -25,6 +25,6 @@ Scopri come configurare [!UICONTROL fully stacked bar] visualizzazioni (100%) ut
 >
 >L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329401/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL fully stacked var], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=it).

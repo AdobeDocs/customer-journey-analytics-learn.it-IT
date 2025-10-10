@@ -20,4 +20,4 @@ ht-degree: 66%
 
 Scopri come aggiungere commenti all’area di lavoro in Adobe Customer Journey Analytics consente a te e al tuo team di collaborare direttamente sui dati. Poni domande, condividi informazioni e crea consenso senza mai uscire dall’analisi. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469446/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469454/?learn=on&enablevpops&captions=ita)

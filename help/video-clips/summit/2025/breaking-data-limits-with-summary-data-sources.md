@@ -20,4 +20,4 @@ ht-degree: 0%
 Scopri come utilizzare le origini dati di riepilogo in Customer Journey Analytics per generare rapporti sui costi di marketing, calcolare il ritorno sulla spesa pubblicitaria e tenere traccia degli obiettivi aziendali.
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460094/?learn=on&enablevpops=true&captions=ita)

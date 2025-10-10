@@ -20,4 +20,4 @@ ht-degree: 23%
 
 Utilizza **Analisi guidata** in Analysis Workspace per gestire autonomamente informazioni di alta qualità sui dati tramite flussi di lavoro guidati. Questa funzione consente di accedere, creare, salvare e riutilizzare facilmente le analisi, semplificando attività come il tracciamento della fidelizzazione degli utenti e l’analisi di funnel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449505/?learn=on&captions=ita)

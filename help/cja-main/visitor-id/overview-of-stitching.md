@@ -21,4 +21,4 @@ ht-degree: 3%
 
 Poiché molte persone interagiscono con i contenuti su più canali e dispositivi, diventa sempre più importante collegare questi eventi non autenticati a quelli autenticati. Ciò consente un approccio più olistico al reporting e, in ultima analisi, all’attivazione. Questo video offre una rapida panoramica del processo di unione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452555/?learn=on&captions=ita)

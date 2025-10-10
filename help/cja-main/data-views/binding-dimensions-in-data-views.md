@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Le dimensioni di binding costituiscono una caratteristica eccezionale di Customer Journey Analytics, consentendoti di prendere una dimensione e collegarla a un’altra allo scopo di una più precisa allocazione della persistenza. Spesso ci imbattiamo in situazioni in cui riceviamo valori diversi in tutto il percorso di un utente e dobbiamo decidere come allocare tali metriche di successo. La dimensione di binding è un modo per affrontare alcuni scenari chiave.
 
->[!VIDEO](https://video.tv.adobe.com/v/342694/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409293/?quality=12&learn=on&captions=ita)

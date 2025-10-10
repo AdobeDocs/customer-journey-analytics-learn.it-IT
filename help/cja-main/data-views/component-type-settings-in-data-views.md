@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Quando configuri i componenti in una visualizzazione dati in Customer Journey Analytics, puoi scegliere se un campo deve essere una metrica o una dimensione. In molti casi, le stringhe devono essere dimensioni e i numeri devono essere metriche. Tuttavia, in alcuni casi può essere utile il contrario. Dai un’occhiata!
 
->[!VIDEO](https://video.tv.adobe.com/v/333112/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412936/?quality=12&learn=on&captions=ita)
