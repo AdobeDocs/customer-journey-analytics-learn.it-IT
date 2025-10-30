@@ -27,4 +27,4 @@ Scopri come vengono utilizzati [!UICONTROL bullet graphs] e come aggiungerli ai 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL bullet graph], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL bullet graph], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=it){target="_blank"}.

@@ -27,4 +27,4 @@ Scopri come aggiungere e configurare la visualizzazione [!UICONTROL tree map] ne
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL tree map], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL tree map], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=it){target="_blank"}.

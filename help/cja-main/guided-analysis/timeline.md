@@ -21,4 +21,4 @@ Scopri la **timeline** in Customer Journey Analytics, che consente di trovare mo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}.
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}.

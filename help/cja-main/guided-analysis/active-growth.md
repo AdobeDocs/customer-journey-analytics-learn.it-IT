@@ -22,4 +22,4 @@ Scopri come la **crescita attiva** in Customer Journey Analytics fornisce inform
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html){target="_blank"}.
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=it){target="_blank"}.

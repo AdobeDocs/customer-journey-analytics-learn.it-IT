@@ -22,4 +22,4 @@ Scopri in che modo il **coinvolgimento** in Customer Journey Analytics fornisce 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement){target="_blank"}.
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement){target="_blank"}.

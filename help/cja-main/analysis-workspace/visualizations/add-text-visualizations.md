@@ -27,4 +27,4 @@ Scopri come aggiungere e configurare visualizzazioni di [!UICONTROL text] nei pr
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL text], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL text], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=it){target="_blank"}.

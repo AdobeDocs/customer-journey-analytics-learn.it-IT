@@ -27,4 +27,4 @@ Scopri come configurare [!UICONTROL fully stacked bar] visualizzazioni (100%) ut
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL fully stacked var], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL fully stacked var], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=it){target="_blank"}.

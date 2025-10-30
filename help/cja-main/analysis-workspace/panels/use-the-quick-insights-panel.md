@@ -20,6 +20,6 @@ ht-degree: 8%
 
 Scopri come rispondere alle domande aziendali in modo rapido e semplice utilizzando il pannello Quick Insights (Approfondimenti rapidi) in Customer Journey Analytics. Adatto a nuovi utenti o analisti avanzati, questo pannello consente di sperimentare in modo intuitivo dimensioni, metriche, visualizzazioni e segmenti per produrre la migliore combinazione di componenti per l’analisi.
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)

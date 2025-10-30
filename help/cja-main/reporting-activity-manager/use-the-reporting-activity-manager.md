@@ -20,6 +20,6 @@ ht-degree: 10%
 
 Utilizzare Gestione attività di reporting in [!DNL Customer Journey Analytics] per monitorare e gestire la capacità di reporting tra le connessioni organizzative. Questo video illustra come accedere alle metriche chiave, risolvere i problemi di prestazioni e ottimizzare l’efficienza del sistema.
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}.
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)

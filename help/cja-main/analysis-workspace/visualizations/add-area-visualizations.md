@@ -27,4 +27,4 @@ Scopri come aggiungere visualizzazioni di [!UICONTROL area] e [!UICONTROL area s
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL area], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL area], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=it){target="_blank"}.

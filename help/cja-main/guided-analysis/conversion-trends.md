@@ -22,4 +22,4 @@ Scopri come **le tendenze di conversione** in Customer Journey Analytics tengono
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html){target="_blank"}.
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=it){target="_blank"}.

@@ -21,6 +21,6 @@ ht-degree: 27%
 
 Con le ricerche CJA sui dati di ricerca e profilo, gli utenti possono utilizzare relazioni più profonde tra elementi di dati, come persone per account nei casi di utilizzo B2B.  Questo video illustra come aggiungere dati di ricerca ai set di dati di ricerca e di profilo e come pianificare e mappare i campi chiave.  Nota: se esiste una relazione uno a molti tra la chiave e il valore di ricerca, verrà utilizzato il valore più recente.
 
-Per la documentazione dettagliata, visita [Tipi di set di dati](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types){target="_blank"} e [Aggiungi dati a livello di account come set di dati di ricerca](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en){target="_blank"}.
+Per la documentazione dettagliata, visita [Tipi di set di dati](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=it#dataset-types){target="_blank"} e [Aggiungi dati a livello di account come set di dati di ricerca](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=it){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)

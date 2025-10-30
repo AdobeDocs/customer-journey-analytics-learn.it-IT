@@ -27,4 +27,4 @@ Scopri come utilizzare le visualizzazioni [!UICONTROL summary] nei progetti [!DN
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL summary], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL summary], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=it){target="_blank"}.

@@ -27,4 +27,4 @@ Scopri come aggiungere e configurare visualizzazioni di [!UICONTROL donut] ai pr
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL donut], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL donut], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=it){target="_blank"}.
