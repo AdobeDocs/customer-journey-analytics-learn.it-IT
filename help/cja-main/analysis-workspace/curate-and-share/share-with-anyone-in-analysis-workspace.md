@@ -9,7 +9,7 @@ last-substantial-update: 2023-06-06T00:00:00Z
 jira: KT-13435
 thumbnail: 3420093.jpeg
 exl-id: 1ee94404-f4b0-4185-82df-341d091963db
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 20%
@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Scopri la funzione &quot;condividi con chiunque&quot; in Workspace. Puoi utilizzare questa funzione per concedere l’accesso in sola lettura ai progetti Workspace a persone che non hanno accesso a Adobe Analytics o Customer Journey Analytics, inclusi destinatari esterni all’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452466/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=it#share-public-link).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=it#share-public-link){target="_blank"}.

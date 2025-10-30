@@ -11,7 +11,7 @@ kt: 3964
 role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 In questo video, scopri come gli [!UICONTROL schemas] per [!UICONTROL dataset] vengono tradotti in variabili in Customer Journey Analytics (CJA), nonché come CJA gestisce la cardinalità molto elevata.
 
->[!VIDEO](https://video.tv.adobe.com/v/36167/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
-Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it).
+Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it){target="_blank"}.

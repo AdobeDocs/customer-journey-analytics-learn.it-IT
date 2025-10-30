@@ -9,7 +9,7 @@ last-substantial-update: 2023-11-01T00:00:00Z
 jira: KT-14282
 thumbnail: 3425389.jpeg
 exl-id: 1659b296-3fef-4497-9700-5799e3494737
-source-git-commit: e9a4d44c508329593ce1ef4a5007e031220cda22
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Esportazione di tabelle complete in Customer Journey Analytics
 
-Scopri la configurazione di base di una tabella di consegna da Customer Journey Analytics ad AEP Data Landing Zone e Snowflake. Per la documentazione dettagliata, visita [Esporta report Customer Journey Analytics nel cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=it).
+Scopri la configurazione di base di una tabella di consegna da Customer Journey Analytics ad AEP Data Landing Zone e Snowflake. Per la documentazione dettagliata, visita [Esporta report Customer Journey Analytics nel cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=it){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450983/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 
 Con l’&quot;esportazione completa delle tabelle&quot;, gli utenti possono distribuire in modo sicuro, una volta o secondo pianificazione, tabelle concatenate contenenti tutte le righe di un rapporto alla propria destinazione cloud.  Inoltre, il nuovo gestione dei componenti per l’esportazione agevola la gestione di tutte le consegne.

@@ -11,7 +11,7 @@ kt: 3962
 role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 8%
@@ -20,10 +20,10 @@ ht-degree: 8%
 
 # Crea cross-channel [!UICONTROL segments] in Customer Journey Analytics
 
-Scopri come creare [!UICONTROL segments] in Adobe Customer Journey Analytics che utilizzano più di una singola origine dati e di un singolo canale. Inoltre, scopri come [!UICONTROL segments] può essere combinato in [!UICONTROL visualizations]. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+Scopri come creare [!UICONTROL segments] in Adobe Customer Journey Analytics che utilizzano più di una singola origine dati e di un singolo canale. Inoltre, scopri come [!UICONTROL segments] può essere combinato in [!UICONTROL visualizations]. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
 
 >[!NOTE]
 >
 > &quot;[!UICONTROL Filters]&quot; sono stati rinominati &quot;[!UICONTROL segments]&quot; nell&#39;interfaccia Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/36162/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
