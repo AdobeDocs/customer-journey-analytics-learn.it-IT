@@ -22,4 +22,4 @@ Scopri come utilizzare i modelli in [!DNL Customer Journey Analytics] per sempli
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/templates/use-templates){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470517/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470537/?captions=ita&learn=on)

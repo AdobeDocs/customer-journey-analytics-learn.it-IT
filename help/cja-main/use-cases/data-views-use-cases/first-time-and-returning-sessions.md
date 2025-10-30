@@ -20,6 +20,6 @@ ht-degree: 100%
 
 La funzionalità per prime sessioni e sessioni di ritorno consente di distinguere tra le prime sessioni e quelle di ritorno per gli utenti. Questa operazione viene eseguita tramite un lookback di 13 mesi applicato al report.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412321/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416834/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=it#new-repeat){target="_blank"}.

@@ -21,4 +21,4 @@ Matematica data mastro nei campi derivati da Customer Journey Analytics. Date Ma
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471073/?captions=ita&learn=on)

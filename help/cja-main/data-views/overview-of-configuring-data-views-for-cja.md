@@ -19,7 +19,7 @@ ht-degree: 100%
 
 In Customer Journey Analytics, le visualizzazioni dati sono simili alle suite di rapporti virtuali in Adobe Analytics; ti consentono di configurare i dati che entrano in CJA in modo che possano essere più utili per le attività di reporting e analisi. Panoramica video della configurazione delle visualizzazioni dati in Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/35110/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345556/?captions=ita&quality=12&learn=on)
 
 Per maggiori informazioni su funzionalità specifiche che possono rendere i tuoi dati più utili, consulta ulteriori video sulle visualizzazioni dati.
 

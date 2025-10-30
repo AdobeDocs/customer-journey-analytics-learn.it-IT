@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Con questa funzione di configurazione della [!UICONTROL Data View], puoi filtrare i valori nelle dimensioni per semplificare la creazione di progetti in Customer Journey Analytics. Mi ringrazierete più tardi (dopo i ringraziamenti dei vostri analisti).
 
->[!VIDEO](https://video.tv.adobe.com/v/332906/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412353/?captions=ita&quality=12&learn=on)
 
 ## Risorse aggiuntive
 

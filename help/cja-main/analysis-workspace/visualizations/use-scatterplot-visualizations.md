@@ -25,6 +25,6 @@ Scopri come utilizzare la visualizzazione [!UICONTROL scatterplot] nei progetti 
 >
 >L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416861/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL scatterplot], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=it){target="_blank"}.

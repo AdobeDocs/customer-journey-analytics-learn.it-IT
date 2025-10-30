@@ -25,6 +25,6 @@ Scopri come aggiungere e configurare la visualizzazione [!UICONTROL tree map] ne
 >
 >L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416855/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL tree map], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=it){target="_blank"}.

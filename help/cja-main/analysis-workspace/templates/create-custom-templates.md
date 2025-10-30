@@ -22,4 +22,4 @@ Scopri come creare un modello personalizzato in Customer Journey Analytics. Ques
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/templates/create-templates){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470930/?captions=ita&learn=on)

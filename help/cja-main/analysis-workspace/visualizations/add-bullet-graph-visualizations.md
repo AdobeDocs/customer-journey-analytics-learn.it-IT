@@ -25,6 +25,6 @@ Scopri come vengono utilizzati [!UICONTROL bullet graphs] e come aggiungerli ai 
 >
 >L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329424/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL bullet graph], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=it){target="_blank"}.

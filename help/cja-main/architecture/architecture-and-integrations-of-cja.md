@@ -23,6 +23,6 @@ ht-degree: 100%
 
 In questo video, puoi trovare una descrizione dettagliata dell’architettura di Customer Journey Analytics, compreso il modo in cui si collega e si integra con Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330416/?captions=ita&learn=on&quality=12)
 
 Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it){target="_blank"}.

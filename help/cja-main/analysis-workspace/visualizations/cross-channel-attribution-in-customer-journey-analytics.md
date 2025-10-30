@@ -22,6 +22,6 @@ ht-degree: 100%
 
 In questo video mostriamo come utilizzare le [!UICONTROL visualizations] per mostrare l’[!UICONTROL attribution] (dare credito) per i diversi canali in Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35853/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it){target="_blank"}.

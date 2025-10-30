@@ -22,6 +22,6 @@ ht-degree: 100%
 
 In questo video, scopri come Adobe Customer Journey Analytics consente di creare [!UICONTROL visualizations] che includono dati da più [!UICONTROL datasets] per diversi canali, e come unire i dati per [!UICONTROL visitor].
 
->[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35850/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it){target="_blank"}.

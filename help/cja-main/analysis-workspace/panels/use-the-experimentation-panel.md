@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Scopri come configurare e utilizzare il pannello di sperimentazione, che crea automaticamente alcune visualizzazioni in base ai dati di sperimentazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412318/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416822/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html?lang=it){target="_blank"}.

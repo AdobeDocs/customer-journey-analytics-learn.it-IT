@@ -20,6 +20,6 @@ ht-degree: 5%
 
 Scopri come utilizzare la funzione &quot;Successivo o Precedente&quot; in Customer Journey Analytics per creare campi derivati complessi che migliorano l’analisi dei dati. Questa esercitazione ti guida attraverso il processo di configurazione di una nuova dimensione che concatena i valori dei canali di marketing a livello di utente, consentendo di ottenere informazioni più approfondite sulle strategie di marketing e sulla generazione di ricavi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447741/?captions=ita&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.

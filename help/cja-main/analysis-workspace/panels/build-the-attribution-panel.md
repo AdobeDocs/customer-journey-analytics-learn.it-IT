@@ -22,4 +22,4 @@ Scopri come utilizzare il pannello di attribuzione in [!DNL Customer Journey Ana
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/panels/attribution){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464730/?captions=ita&learn=on)

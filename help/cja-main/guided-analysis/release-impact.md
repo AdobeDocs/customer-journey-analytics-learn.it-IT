@@ -20,6 +20,6 @@ ht-degree: 19%
 
 Scopri in che modo **l&#39;impatto sulla versione** in Customer Journey Analytics mostra un confronto tra le prestazioni degli indicatori chiave prima e dopo una determinata data.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423450/?captions=ita&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=it){target="_blank"}.

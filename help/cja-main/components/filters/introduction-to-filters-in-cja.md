@@ -24,4 +24,4 @@ I segmenti identificano sottoinsiemi di visitatori o clienti in base ad attribut
 >
 > &quot;[!UICONTROL Filters]&quot; sono stati rinominati &quot;[!UICONTROL segments]&quot; nell&#39;interfaccia Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36169/?captions=ita&quality=12&learn=on)

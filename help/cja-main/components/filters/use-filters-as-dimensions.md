@@ -24,4 +24,4 @@ Scopri come confrontare e visualizzare i segmenti utilizzati come dimensioni nei
 >
 > &quot;[!UICONTROL Filters]&quot; sono stati rinominati &quot;[!UICONTROL segments]&quot; nell&#39;interfaccia Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449070/?captions=ita&learn=on&quality=12)

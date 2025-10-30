@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Il supporto per i campi della data aggiunge la possibilità di lavorare con campi di data e di data e ora all’interno di Customer Journey Analytics. È possibile selezionare la modalità di visualizzazione del campo di data o data e ora e utilizzare operatori logici specifici per data nella funzionalità di inclusione/esclusione per filtrare il contenuto visualizzato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412322/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416828/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=it#date){target="_blank"}.
