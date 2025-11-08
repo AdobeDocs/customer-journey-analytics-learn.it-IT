@@ -23,4 +23,4 @@ Con le ricerche CJA sui dati di ricerca e profilo, gli utenti possono utilizzare
 
 Per la documentazione dettagliata, visita [Tipi di set di dati](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=it#dataset-types){target="_blank"} e [Aggiungi dati a livello di account come set di dati di ricerca](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=it){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449879/?captions=ita&learn=on)
