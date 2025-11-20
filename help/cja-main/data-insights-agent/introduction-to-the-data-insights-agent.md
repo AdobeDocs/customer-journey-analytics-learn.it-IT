@@ -25,7 +25,7 @@ Per ulteriori informazioni, consulta la [documentazione](https://experienceleagu
 
 Informazioni su [!DNL Data Insights Agent] in Customer Journey Analytics. Questa soluzione basata sull’intelligenza artificiale fornisce informazioni istantanee e trasparenti agli esperti di marketing e alle parti interessate, eliminando ritardi e formazioni estese e liberando gli analisti per attività strategiche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463905/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
 
 
 ## Casi d’uso di Data Insights Agent
@@ -41,7 +41,7 @@ Informazioni su [!DNL Data Insights Agent] in Customer Journey Analytics. Questa
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Casi d’uso di Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463916/?format=jpeg&nocache=1742338375674&captions=ita" alt="Casi d’uso di Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Casi d’uso di Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,7 +75,7 @@ Informazioni su [!DNL Data Insights Agent] in Customer Journey Analytics. Questa
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="Utilizzare Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463927/?format=jpeg&nocache=1742338375674&captions=ita" alt="Utilizzare Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="Utilizzare Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

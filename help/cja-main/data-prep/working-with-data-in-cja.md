@@ -22,6 +22,6 @@ ht-degree: 100%
 
 In questo video, scopri come gli [!UICONTROL schemas] per [!UICONTROL dataset] vengono tradotti in variabili in Customer Journey Analytics (CJA), nonché come CJA gestisce la cardinalità molto elevata.
 
->[!VIDEO](https://video.tv.adobe.com/v/36167/?captions=ita&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
 Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it){target="_blank"}.
