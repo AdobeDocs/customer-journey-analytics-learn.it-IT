@@ -20,6 +20,6 @@ ht-degree: 30%
 
 Modifica in modo efficiente le configurazioni di [!DNL Content Analytics] regolando nomi, visualizzazioni dati e impostazioni di acquisizione esperienza. Questa azione aggiorna automaticamente le metriche ed esegue regolazioni precise tramite l’estensione tag di Content Analytics per ottenere approfondimenti ottimizzati.
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458439/?learn=on&enablevpops)
