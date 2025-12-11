@@ -20,6 +20,6 @@ ht-degree: 89%
 
 Scopri come utilizzare gli array di oggetti dai set di dati di profilo e di ricerca in CJA per arricchire l’analisi B2B e B2C, da Connessioni, a Visualizzazioni dati e Area di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445273/?captions=ita&learn=on)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=it){target="_blank"}.
