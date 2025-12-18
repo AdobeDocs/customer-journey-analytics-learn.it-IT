@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questo video illustra come abilitare l’unione su qualsiasi set di dati evento. Inoltre, una volta abilitata l’unione su un set di dati, sarà utile visualizzare diverse metriche e dimensioni che puoi utilizzare per verificare che funzioni e il valore che apporta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478128/?captions=ita&learn=on&enablevpops)
