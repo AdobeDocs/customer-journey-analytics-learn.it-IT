@@ -22,4 +22,4 @@ Scopri come identificare e filtrare il traffico generato dall’intelligenza art
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"} di Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478583/?captions=ita&learn=on&enablevpops)
