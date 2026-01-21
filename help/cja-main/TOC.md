@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: ba07ecf441be809b3d7f92db7f7d61a2bcb7f1cb
 workflow-type: tm+mt
 source-wordcount: '584'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 73%
    + [Introduzione a Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
    + [Nuovi termini e concetti](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Pagina di destinazione di Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
-   + [Utilizza l’Assistente AI](cja-basics/use-ai-assistant.md)
+   + [Utilizzare l’Assistente IA](cja-basics/use-ai-assistant.md)
 + Customer Journey Analytics B2B Edition {#b2b}
-   + [Introduzione a Customer Journey Analytics - B2B edition](b2b/cja-b2b-overview.md)
-   + [CJA B2B edition: oltre le prime domande](b2b/cja-b2b-beyond-the-first-questions.md)
-   + [Integrare CJA con Marketo per approfondimenti B2B](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
+   + [Introduzione a Customer Journey Analytics B2B Edition](b2b/cja-b2b-overview.md)
+   + [CJA B2B Edition: oltre le domande fondamentali](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [Integrare CJA con Marketo per ottenere insight B2B](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + Architettura {#architecture}
    + [Architettura e integrazioni](architecture/architecture-and-integrations-of-cja.md)
 + Preparazione dei dati e pianificazione {#data-prep}
@@ -30,17 +30,17 @@ ht-degree: 73%
    + [Acquisire, mappare e trasformare dati Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
    + [Acquisire e utilizzare i dati delle classificazioni di Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
 + Controllo degli accessi {#access-control}
-   + [Impostare le autorizzazioni](permissions/set-up-permissions.md)
+   + [Configurare le autorizzazioni](permissions/set-up-permissions.md)
 + Connessioni {#connections}
    + [Connessione alle sorgenti dei dati di Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [Visualizzare, risolvere i problemi e modificare le impostazioni di connessione](connections/connections-details-experience-in-cja.md)
    + [Aggiungi nuovi dati a una connessione](connections/add-past-data-to-an-existing-connection-in-cja.md)
-   + [Ricerche CJA per dati di ricerca e di profilo](connections/cja-lookup-data.md)
-+ Identificazione visitatore {#visitor-id}
+   + [Ricerche CJA per dati di ricerca e profilo](connections/cja-lookup-data.md)
++ Identificazione del visitatore {#visitor-id}
    + [Utilizzo dell’identità in CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Configurare un ID persona mancante](visitor-id/configure-missing-person-id.md)
-   + [Panoramica di unione](visitor-id/overview-of-stitching.md)
-   + [Abilitazione e convalida dell’unione](visitor-id/stitching-enablement-and-validation.md)
+   + [Panoramica dell’unione delle identità](visitor-id/overview-of-stitching.md)
+   + [Abilitazione e convalida dell’unione delle identità](visitor-id/stitching-enablement-and-validation.md)
 + Visualizzazioni dati {#data-views}
    + [Panoramica sulla configurazione delle visualizzazioni dati di CJA](data-views/overview-of-configuring-data-views-for-cja.md)
    + [Configurazione di base per le visualizzazioni dati](data-views/basic-configuration-for-data-views.md)
@@ -58,29 +58,29 @@ ht-degree: 73%
    + [Conversione valuta](data-views/currency-conversion.md)
    + Campi derivati{#derived-fields}
       + [Creare campi derivati](data-views/derived-fields/derived-fields-in-cja.md)
-      + [Utilizzare la funzione matematica](data-views/derived-fields/use-the-math-function-in-derived-fields.md)
+      + [Utilizzare la funzione Matematica](data-views/derived-fields/use-the-math-function-in-derived-fields.md)
       + [Utilizzare la funzione Successivo o Precedente](data-views/derived-fields/use-the-next-previous-function-in-derived-fields.md)
-      + [Personalizza profondità evento](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
-      + [Usa Typecasting](data-views/derived-fields/use-typecasting-in-derived-fields.md)
-      + [Utilizza Date Math per calcolare l’intervallo di tempo tra gli eventi](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
+      + [Personalizzare la profondità evento](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
+      + [Utilizzare la conversione tipo](data-views/derived-fields/use-typecasting-in-derived-fields.md)
+      + [Utilizzare Calcolo della data per calcolare l’orario tra gli eventi](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
 + Agente Data Insights {#data-insights-agent}
    + [Introduzione](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [Casi d’uso](data-insights-agent/data-insights-agent-use-cases.md)
-   + [Utilizzare Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
+   + [Utilizzo dell’Agente Data Insights](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Progetti Workspace {#workspace-projects}
       + [Panoramica di Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [Generare un nuovo progetto](analysis-workspace/workspace-projects/build-a-new-project.md)
-      + [Modelli Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
-      + [Commenti Workspace](analysis-workspace/workspace-projects/workspace-commenting.md)
+      + [Modelli di Analysis Workspace](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
+      + [Commenti su Workspace](analysis-workspace/workspace-projects/workspace-commenting.md)
       + Analisi del percorso {#journey-analysis}
          + [Visualizzazione dell’area di lavoro del percorso](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + Pannelli {#panels}
       + [Aggiungere componenti al pannello a forma libera](analysis-workspace/panels/add-components-to-the-freeform-panel.md)
-      + [Creare il pannello di attribuzione](analysis-workspace/panels/build-the-attribution-panel.md)
+      + [Creare il pannello Attribuzione](analysis-workspace/panels/build-the-attribution-panel.md)
       + [Configurare il pannello per l’elemento successivo e precedente](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [Utilizzare il pannello di sperimentazione](analysis-workspace/panels/use-the-experimentation-panel.md)
-      + [Utilizzare il pannello Quick Insights (Approfondimenti rapidi)](analysis-workspace/panels/use-the-quick-insights-panel.md)
+      + [Utilizzare il pannello Insight rapidi](analysis-workspace/panels/use-the-quick-insights-panel.md)
    + Modelli {#templates}
       + [Utilizzare i modelli](analysis-workspace/templates/use-templates.md)
       + [Creare modelli personalizzati](analysis-workspace/templates/create-custom-templates.md)
@@ -103,9 +103,9 @@ ht-degree: 73%
    + Annotazioni {#annotations}
       + [Creare un’annotazione](analysis-workspace/annotations/create-an-annotation.md)
    + Curare e condividere {#curate-and-share}
-      + [Condividi con chiunque in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + Suggerimenti {#tips-and-tricks}
-      + [Creare segmenti dinamici a discesa](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [Condividere con chiunque in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
+   + Suggerimenti e trucchi {#tips-and-tricks}
+      + [Creare segmenti a discesa dinamici](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Panoramica di Adobe Product Analytics](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Analisi guidata {#guided-analysis}
@@ -141,8 +141,8 @@ ht-degree: 73%
 + Content Analytics {#content-analytics}
    + [Introduzione](content-analytics/introduction-to-content-analytics.md)
    + [Come funziona](content-analytics/how-it-works.md)
-   + [Crea configurazione](content-analytics/create-configuration.md)
-   + [Modifica configurazione](content-analytics/edit-configuration.md)
+   + [Creare una configurazione](content-analytics/create-configuration.md)
+   + [Modificare la configurazione](content-analytics/edit-configuration.md)
    + [Reporting](content-analytics/reporting.md)
 + Dashboard (scorecard) {#dashboards}
    + [Creare una scorecard per dispositivi mobili](dashboards/create-a-mobile-scorecard.md)
@@ -155,12 +155,12 @@ ht-degree: 73%
 + Reporting Activity Manager {#reporting-activity-manager}
    + [Utilizzare Reporting Activity Manager](reporting-activity-manager/use-the-reporting-activity-manager.md)
 + Integrazione di Experience Platform {#experience-platform-integration}
-   + [Generazione rapporti migliorata per Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
+   + [Reporting migliorato per Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Casi d’uso {#use-cases}
    + Intelligenza artificiale {#ai}
-      + [Tracciare e analizzare il traffico AI](use-cases/ai/track-and-analyze-ai-traffic.md)
+      + [Tracciare e analizzare il traffico IA](use-cases/ai/track-and-analyze-ai-traffic.md)
    + Casi d’uso per le visualizzazioni dati {#data-views-use-cases}
-      + [Reportistica per prime sessioni e sessioni di ritorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [Reportinr prime sessioni e sessioni di ritorno](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [Utilizzare il supporto per i campi della data](use-cases/data-views-use-cases/leverage-date-field-support.md)
    + Dati complessi {#complex-data}
       + [Utilizzare gli array di oggetti](use-cases/complex-data/object-arrays-in-cja.md)
