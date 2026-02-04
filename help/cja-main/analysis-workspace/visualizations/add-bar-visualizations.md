@@ -23,4 +23,4 @@ Scopri come aggiungere e configurare visualizzazioni [!UICONTROL barre] e [!UICO
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni [!UICONTROL bar], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni [!UICONTROL bar], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=it){target="_blank"}.
