@@ -21,4 +21,4 @@ Scopri come aggiungere visualizzazioni [!UICONTROL area] e [!UICONTROL area sovr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479637/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL area], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL area], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=it){target="_blank"}.
