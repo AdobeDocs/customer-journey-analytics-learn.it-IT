@@ -20,4 +20,4 @@ ht-degree: 0%
 
 La funzione Più colonne di Dimension di CJA rende ancora più potenti le tabelle a forma libera. Oltre ai raggruppamenti delle dimensioni standard, puoi analizzare i dati delle dimensioni affiancati per creare coppie relazionali per rappresentare e comprendere meglio i dati. La funzionalità di ordinamento avanzata offre inoltre maggiore flessibilità per manipolare le tabelle in modo da visualizzare i dati nel modo desiderato. Per ulteriori informazioni, consulta la [documentazione.](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/freeform-table-multidimensions){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3479514/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479522/?captions=ita&learn=on&enablevpops)

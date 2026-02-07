@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Scopri come aggiungere e configurare visualizzazioni [!UICONTROL barre] e [!UICONTROL barre in pila] standard nei progetti [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]. Questi utilizzano le formazioni [!UICONTROL bar] per rappresentare i valori nelle metriche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479611/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sulle visualizzazioni [!UICONTROL bar], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=it){target="_blank"}.
