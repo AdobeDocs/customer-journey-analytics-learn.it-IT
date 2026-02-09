@@ -22,4 +22,4 @@ Scopri come aggiungere e configurare visualizzazioni di testo nei progetti Analy
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL testo], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL testo], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=it){target="_blank"}.

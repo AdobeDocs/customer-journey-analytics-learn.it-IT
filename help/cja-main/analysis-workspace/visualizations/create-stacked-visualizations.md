@@ -22,4 +22,4 @@ Scopri come configurare le visualizzazioni completamente impilate utilizzando le
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle [!UICONTROL visualizzazioni var] completamente impilate, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.
+Per ulteriori informazioni sulle [!UICONTROL visualizzazioni var] completamente impilate, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=it){target="_blank"}.
