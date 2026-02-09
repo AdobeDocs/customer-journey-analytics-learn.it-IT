@@ -1,30 +1,25 @@
 ---
-title: Aggiungi [!UICONTROL text] visualizzazioni a  [!DNL Analysis Workspace]  progetti
-description: Scopri come aggiungere e configurare [!UICONTROL text] visualizzazioni in [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics].
+title: Aggiungere visualizzazioni di testo ai progetti Analysis Workspace
+description: Scopri come aggiungere e configurare visualizzazioni di testo nei progetti Analysis Workspace in Customer Journey Analytics.
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
-thumbnail: 23726.jpg
 kt: 13426
 role: User
 level: Beginner
-last-substantial-update: 2023-06-07T00:00:00Z
+last-substantial-update: 2026-02-09T00:00:00Z
 exl-id: f4ddd3fb-af0b-4594-9cde-81829885b611
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 0e2ff3688878b5d2e8f3373350608c040333225f
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Aggiungi [!UICONTROL text] visualizzazioni a [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]
+# Aggiungi visualizzazioni di [!UICONTROL testo] a [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]
 
-Scopri come aggiungere e configurare visualizzazioni di [!UICONTROL text] nei progetti di [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]. Questa visualizzazione è utile quando si desidera trasmettere dubbi sulle metriche o aggiungere contesto ad altri dati in un progetto.
+Scopri come aggiungere e configurare visualizzazioni di testo nei progetti Analysis Workspace in Customer Journey Analytics. Questa visualizzazione è utile quando si desidera trasmettere dubbi sulle metriche o aggiungere contesto ad altri dati in un progetto.
 
->[!NOTE]
->
->L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
+>[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/329903/?captions=ita&quality=12&learn=on)
-
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL text], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=it){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL testo], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"}.

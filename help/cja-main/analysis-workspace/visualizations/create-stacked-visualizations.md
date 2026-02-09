@@ -1,30 +1,25 @@
 ---
-title: Crea [!UICONTROL fully stacked bar] visualizzazioni in [!DNL Analysis Workspace]  progetti
-description: Scopri come configurare le visualizzazioni di [!UICONTROL fully stacked bar] utilizzando le percentuali anziché i valori non elaborati in [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics].
+title: Creare visualizzazioni sovrapposte al 100% nei progetti Analysis Workspace
+description: Scopri come configurare le visualizzazioni completamente impilate utilizzando le percentuali invece dei valori non elaborati nei progetti Analysis Workspace in Customer Journey Analytics.
 feature: Visualizations
 doc-type: technical video
-team: Technical Marketing
 thumbnail: 23131.jpg
 kt: 13434
 role: User
 level: Beginner
-last-substantial-update: 2023-06-07T00:00:00Z
+last-substantial-update: 2026-02-09T00:00:00Z
 exl-id: 47c482e4-91b2-4c0d-bd6d-719f20b91204
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 0e2ff3688878b5d2e8f3373350608c040333225f
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# Crea visualizzazioni di [!UICONTROL fully stacked bar] in [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]
+# Creare visualizzazioni ad aree o barre sovrapposte al 100% nei progetti Analysis Workspace
 
-Scopri come configurare [!UICONTROL fully stacked bar] visualizzazioni (100%) utilizzando le percentuali invece dei valori non elaborati nei progetti [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics].
+Scopri come configurare le visualizzazioni completamente impilate utilizzando le percentuali invece dei valori non elaborati nei progetti Analysis Workspace in Customer Journey Analytics.
 
->[!NOTE]
->
->L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
+>[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/329401/?captions=ita&quality=12&learn=on)
-
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL fully stacked var], consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=it){target="_blank"}.
+Per ulteriori informazioni sulle [!UICONTROL visualizzazioni var] completamente impilate, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.
