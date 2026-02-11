@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0e2ff3688878b5d2e8f3373350608c040333225f
+source-git-commit: 33eae9d6426794f3029e2db25e242640dc1fc4c0
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 98%
+source-wordcount: '609'
+ht-degree: 97%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 98%
    + [Visualizzare, risolvere i problemi e modificare le impostazioni di connessione](connections/connections-details-experience-in-cja.md)
    + [Aggiungi nuovi dati a una connessione](connections/add-past-data-to-an-existing-connection-in-cja.md)
    + [Ricerche CJA per dati di ricerca e profilo](connections/cja-lookup-data.md)
+   + [Introduzione all’analisi del pubblico](connections/get-started-with-audience-analysis.md)
 + Identificazione del visitatore {#visitor-id}
    + [Utilizzo dell’identità in CJA](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [Configurare un ID persona mancante](visitor-id/configure-missing-person-id.md)
