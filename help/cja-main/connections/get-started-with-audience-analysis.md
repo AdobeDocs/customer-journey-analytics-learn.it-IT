@@ -20,6 +20,6 @@ ht-degree: 7%
 
 Scopri come Audience Analysis consente agli addetti al marketing di acquisire segmenti di pubblico da Experience Platform e di analizzare i comportamenti reali dei clienti nei diversi canali, per una migliore ottimizzazione delle campagne. Scopri i semplici passaggi di configurazione per abilitare i dati sull’iscrizione del pubblico, esplorare modelli predefiniti e scoprire informazioni fruibili su personalizzazione, conversioni e ROI.
 
-Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
+Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
