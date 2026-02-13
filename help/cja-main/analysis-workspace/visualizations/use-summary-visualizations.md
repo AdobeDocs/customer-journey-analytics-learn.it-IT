@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Scopri come aggiungere e configurare visualizzazioni di [!UICONTROL riepilogo] in [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]. Queste visualizzazioni sono perfette per evidenziare un numero elevato importante in un progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479879/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479898/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL riepilogo], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=it){target="_blank"}.
