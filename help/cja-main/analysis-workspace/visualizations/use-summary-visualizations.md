@@ -20,4 +20,4 @@ Scopri come aggiungere e configurare visualizzazioni di [!UICONTROL riepilogo] i
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479879/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL riepilogo], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL riepilogo], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=it){target="_blank"}.
