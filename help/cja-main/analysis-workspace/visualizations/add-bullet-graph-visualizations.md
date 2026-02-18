@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Scopri come vengono utilizzati i [!UICONTROL grafici bullet] e come aggiungerli ai [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]. Questo grafico mostra come un valore di interesse si confronta con o misura rispetto agli obiettivi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479966/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sulle [!UICONTROL visualizzazioni del grafico bullet], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=it){target="_blank"}.
