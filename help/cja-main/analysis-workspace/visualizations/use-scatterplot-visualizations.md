@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Scopri come utilizzare la visualizzazione [!UICONTROL scatter] nei progetti [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]. Questa visualizzazione mostra la relazione tra gli elementi dimensionali fino a tre metriche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479977/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sulle visualizzazioni [!UICONTROL scatter], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=it){target="_blank"}.
