@@ -20,4 +20,4 @@ Scopri come utilizzare la visualizzazione [!UICONTROL scatter] nei progetti [!DN
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle visualizzazioni [!UICONTROL scatter], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}.
+Per ulteriori informazioni sulle visualizzazioni [!UICONTROL scatter], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html?lang=it){target="_blank"}.
