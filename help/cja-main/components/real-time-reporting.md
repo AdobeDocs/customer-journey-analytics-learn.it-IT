@@ -20,6 +20,6 @@ ht-degree: 10%
 
 Scopri come il reporting in tempo reale in Adobe Customer Journey Analytics fornisce metriche chiave come ricavi, conversioni e visite direttamente in Analysis Workspace. Ideale per importanti promozioni, lanci di prodotti e convalide di percorso: questa funzione consente agli addetti al marketing di prendere decisioni più rapide e basate sui dati, una volta ogni minuto.
 
-Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}.
+Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
