@@ -20,4 +20,4 @@ Scopri come aggiungere e configurare la visualizzazione [!UICONTROL mappa ad alb
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480243/?quality=12&learn=on)
 
-Per ulteriori informazioni sulle [!UICONTROL visualizzazioni mappa ad albero], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html){target="_blank"}.
+Per ulteriori informazioni sulle [!UICONTROL visualizzazioni mappa ad albero], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=it){target="_blank"}.
