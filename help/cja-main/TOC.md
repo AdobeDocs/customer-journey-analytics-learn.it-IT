@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
+source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 96%
+source-wordcount: '656'
+ht-degree: 92%
 
 ---
 
@@ -96,11 +96,11 @@ ht-degree: 96%
       + [Aggiungere visualizzazioni dell’anello](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [Più colonne di dimensione nelle tabelle a forma libera](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [Aggiungere visualizzazioni della riga](analysis-workspace/visualizations/line-visualization.md)
-      + [Configurare e utilizzare la visualizzazione mappa](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
+      + [Aggiungere e configurare la visualizzazione mappa](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [Aggiungi visualizzazioni di riepilogo](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [Aggiungere visualizzazioni di testo](analysis-workspace/visualizations/add-text-visualizations.md)
       + [Aggiungere visualizzazioni a dispersione](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-      + [Aggiungere la visualizzazione della mappa ad albero](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [Aggiungere visualizzazioni di mappe ad albero](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Creare visualizzazioni sovrapposte al 100%](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [Aggiungere previsioni alla visualizzazione](analysis-workspace/visualizations/forecasting.md)
    + Annotazioni {#annotations}
@@ -171,6 +171,6 @@ ht-degree: 96%
    + Dati complessi {#complex-data}
       + [Utilizzare gli array di oggetti](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprint {#blueprints}
-   + [Blueprint di Customer Journey Analytics](https://experienceleague.adobe.com/it/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [blueprint Customer Journey Analytics](https://experienceleague.adobe.com/it/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
