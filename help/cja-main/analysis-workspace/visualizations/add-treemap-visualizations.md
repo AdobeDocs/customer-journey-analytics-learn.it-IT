@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Scopri come aggiungere e configurare la visualizzazione [!UICONTROL mappa ad albero] nei progetti [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]. Questa visualizzazione crea dati gerarchici come un insieme di rettangoli nidificati e consente di visualizzare facilmente modelli che altrimenti sarebbero difficili da individuare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480243/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480264/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sulle [!UICONTROL visualizzazioni mappa ad albero], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=it){target="_blank"}.
