@@ -1,25 +1,25 @@
 ---
 title: Introduzione a Customer Journey Analytics
-description: Adobe Customer Journey Analytics (CJA) è un servizio applicativo basato su Adobe Experience Platform. Questa funzione porta lo strumento di analisi avanzato Analysis Workspace in Platform per consentire l’analisi multicanale su qualsiasi set di dati di Platform.
-landing-page-description: Scopri come eseguire l’analisi multicanale sui set di dati di Experience Platform.
-short-description: Scopri come eseguire l’analisi multicanale sui dei set di dati di Experience Platform.
+description: Adobe Customer Journey Analytics (CJA) è la soluzione di analisi di nuova generazione di Adobe basata su Adobe Experience Platform.
 feature: Workspace Basics
 thumbnail: 30090.jpg
 kt: 3953
 role: User, Developer, Admin, Leader
 level: Beginner
+duration: 270
+last-substantial-update: 2026-03-13T00:00:00Z
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
-source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
+source-git-commit: 792a56b240f88b4a6bf6b5f7f2be4c4fb411242e
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 
 # Introduzione a Customer Journey Analytics
 
-Adobe Customer Journey Analytics (CJA) è un servizio applicativo basato su Adobe Experience Platform. Questa funzione porta lo strumento di analisi avanzato Analysis Workspace in Platform per consentire l’analisi multicanale su qualsiasi set di dati di Platform.
+Adobe Customer Journey Analytics (CJA) è la soluzione di analisi di nuova generazione di Adobe basata su Adobe Experience Platform. Unifica le origini dati online e offline, come siti Web, app per dispositivi mobili, call center, CRM e sistemi in-store, in una vista unica incentrata sulle persone per analizzare i percorsi completi dei clienti attraverso canali e dispositivi. Utilizza l’interfaccia di trascinamento di Analysis Workspace per creare report intercanale a livello di evento connesso.
 
->[!VIDEO](https://video.tv.adobe.com/v/36335/?captions=ita&quality=12&learn=on)
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-landing){target="_blank"}.
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it){target="_blank"}.
+>[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
