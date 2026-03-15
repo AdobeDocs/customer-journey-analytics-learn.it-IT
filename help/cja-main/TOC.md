@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
+source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 92%
+source-wordcount: '661'
+ht-degree: 89%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 92%
 + [Panoramica di Customer Journey Analytics](overview.md)
 + Nozioni di base su Customer Journey Analytics {#cja-basics}
    + [Cos’è Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
-   + [Perché CJA? Revisione strategica di CJA rispetto ad Adobe Analytics](cja-basics/why-cja-modernize-customer-analytics.md)
+   + [Perché CJA? Analisi strategica di CJA e Adobe Analytics](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Introduzione a Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
-   + [Nuovi termini e concetti](cja-basics/new-terms-and-concepts-in-cja.md)
+   + [Analytics to CJA: nuovi termini e come vengono mappati](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Pagina di destinazione di Customer Journey Analytics](cja-basics/customer-journey-analytics-landing-page.md)
    + [Utilizzare l’Assistente IA](cja-basics/use-ai-assistant.md)
 + Customer Journey Analytics B2B Edition {#b2b}
    + [Introduzione a Customer Journey Analytics B2B Edition](b2b/cja-b2b-overview.md)
-   + [CJA B2B Edition: oltre le domande fondamentali](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [CJA B2B edition: oltre le prime domande](b2b/cja-b2b-beyond-the-first-questions.md)
    + [Integrare CJA con Marketo per ottenere insight B2B](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + Architettura {#architecture}
    + [Architettura e integrazioni](architecture/architecture-and-integrations-of-cja.md)
