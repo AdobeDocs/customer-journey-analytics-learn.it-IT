@@ -21,6 +21,6 @@ Scopri la funzione di anteprima del set di dati in Customer Journey Analytics ch
 
 Valuta l’idoneità dei set di dati per rapporti affidabili tra dispositivi e canali prima dell’acquisizione, riducendo notevolmente il time-to-value e riducendo i rischi legati alle decisioni di strategia delle identità con informazioni in tempo reale.
 
-Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}.
+Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
