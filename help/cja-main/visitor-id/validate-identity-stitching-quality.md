@@ -23,4 +23,4 @@ Valuta l’idoneità dei set di dati per rapporti affidabili tra dispositivi e c
 
 Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/stitching/validate){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481900/?captions=ita&learn=on&enablevpops)
