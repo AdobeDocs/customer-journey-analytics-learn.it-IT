@@ -25,7 +25,7 @@ Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.
 
 Content Analytics utilizza l’infrastruttura IA ed Experience Platform per rivelare ciò che rende i contenuti efficaci. I team possono ottimizzare il coinvolgimento, favorire le conversioni e prendere decisioni più intelligenti e basate sui dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457318/?captions=ita&learn=on&enablevpops)
 
 
 ## Come funziona
@@ -42,7 +42,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics: come funziona" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics: come funziona"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457435/?captions=ita&format=jpeg&nocache=1742338375674" alt="Content Analytics: come funziona"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,7 +137,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics: reporting" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics: reporting"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473045/?captions=ita&format=jpeg&nocache=1742338375674" alt="Content Analytics: reporting"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
