@@ -24,4 +24,4 @@ Scopri come Adobe Customer Journey Analytics è progettato su Adobe Experience P
 
 Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-landing){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330416/?captions=ita&learn=on&quality=12)
