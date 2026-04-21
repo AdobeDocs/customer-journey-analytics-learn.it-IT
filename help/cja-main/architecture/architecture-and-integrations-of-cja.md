@@ -22,6 +22,6 @@ ht-degree: 16%
 
 Scopri come Adobe Customer Journey Analytics è progettato su Adobe Experience Platform per potenziare l’analisi di percorso e cross-channel. Questo video spiega concetti chiave di CJA come connessioni, visualizzazioni dati e unione dati, oltre a come CJA si integra con Real-Time CDP, Journey Optimizer e strumenti BI per approfondimenti completi sul percorso dei clienti.
 
-Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-landing){target="_blank"}.
+Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-landing){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
