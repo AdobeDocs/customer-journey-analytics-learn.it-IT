@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3324740cfa93ad26145ee16052e5bf3694720678
+source-git-commit: 7b3a767ec4acd2b1e12de3acc11247645c9c023f
 workflow-type: tm+mt
-source-wordcount: '676'
-ht-degree: 87%
+source-wordcount: '692'
+ht-degree: 85%
 
 ---
 
@@ -24,6 +24,9 @@ ht-degree: 87%
    + [Introduzione a Customer Journey Analytics B2B Edition](b2b/cja-b2b-overview.md)
    + [CJA B2B edition: oltre le prime domande](b2b/cja-b2b-beyond-the-first-questions.md)
    + [Integrare CJA con Marketo per ottenere insight B2B](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
++ Server MCP remoto {#remote-mcp-server}
+   + [Panoramica del server MCP remoto per CJA](remote-mcp-server/remote-mcp-server-for-cja-overview.md)
+   + [Server MCP remoto per CJA in azione](remote-mcp-server/remote-mcp-server-for-cja-in-action.md)
 + Architettura {#architecture}
    + [Architettura e integrazioni](architecture/architecture-and-integrations-of-cja.md)
 + Preparazione dei dati e pianificazione {#data-prep}
