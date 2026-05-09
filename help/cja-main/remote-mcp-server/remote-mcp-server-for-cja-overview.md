@@ -22,4 +22,4 @@ Scopri come collegare strumenti di intelligenza artificiale come [!DNL Claude], 
 
 Per ulteriori informazioni, rivedi la [documentazione](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"} di Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486322/?captions=ita&learn=on&enablevpops)
