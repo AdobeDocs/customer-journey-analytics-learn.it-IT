@@ -8,15 +8,21 @@ doc-type: feature video
 thumbnail: 332864.jpg
 kt: 7587
 exl-id: e1126663-afb4-4ba7-b93b-192e990e3000
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+TQID: https://experienceleague.adobe.com/yBpj1yYWZqYyNPy-Qlkw4K-kEoCcAQWr-sWs1GiuvYk
+product_v2: id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2: id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+subfeature_v2: id: df7fb1db-aa1b-4314-98ac-59dbfcc3044f
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 100%
+source-wordcount: 114
+ht-degree: 57%
 
 ---
 
-# Creazione di contenitori di valori in [!UICONTROL Data Views] per l’analisi
+# Creazione di contenitori di valori in [!UICONTROL Visualizzazioni dati] per l&#39;analisi
 
-Quando si configura una [!UICONTROL Data View] in Customer Journey Analytics, è possibile impostare una dimensione numerica da inserire nei contenitori definiti, in modo da limitare il numero di elementi disponibili per la tabella a intervalli di numeri (molto interessante). Questo video illustra la configurazione di questa funzione.
+Durante la configurazione di una [!UICONTROL Visualizzazione dati] in Customer Journey Analytics, è possibile impostare una dimensione numerica da inserire nei bucket definiti, in modo da limitare il numero di elementi disponibili per la tabella a intervalli di numeri (molto interessante). Questo video illustra la configurazione di questa funzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412359/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)
