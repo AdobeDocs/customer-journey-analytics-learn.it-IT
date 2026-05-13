@@ -5,13 +5,32 @@ feature: Use Cases
 role: Leader, User
 level: Beginner
 duration: 650
-last-substantial-update: 2025-05-13T00:00:00Z
+last-substantial-update: 2025-05-13T00:00:00.000Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
+TQID: https://experienceleague.adobe.com/aEejEKNzwaX2nn9uhCuBDZkZsHBMbp1vg6aqdnnbhkg
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2:
+  - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+subfeature_v2:
+  - id: ad5685a0-8296-4a0c-814c-658c10b4af12
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40d
+source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 98%
+source-wordcount: 283
+ht-degree: 100%
 
 ---
 
@@ -55,7 +74,7 @@ CARDS
                     <p class="is-size-6">Scopri come funziona Content Analytics con Customer Journey Analytics e Experience Platform.</p>
                 </div>
                 <a href="how-it-works.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -92,7 +111,7 @@ CARDS
                     <p class="is-size-6">Informazioni su come utilizzare il flusso di lavoro guidato di Content Analytics. Semplifica il processo di configurazione per i marketer, consentendo una raccolta dati, un’elaborazione e un reporting efficienti in Customer Journey Analytics. </p>
                 </div>
                 <a href="create-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -115,7 +134,7 @@ CARDS
                     <p class="is-size-6">Modificare in modo efficiente le configurazioni di Content Analytics regolando i nomi, le visualizzazioni dati e le impostazioni di acquisizione delle esperienze. Questa azione aggiorna automaticamente le metriche ed esegue regolazioni precise tramite l’estensione tag di Content Analytics per ottenere approfondimenti ottimizzati.</p>
                 </div>
                 <a href="edit-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -150,7 +169,7 @@ CARDS
                     <p class="is-size-6">Scopri come Content Analytics fornisce rapporti dettagliati sulle prestazioni dei contenuti del sito web.</p>
                 </div>
                 <a href="reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
