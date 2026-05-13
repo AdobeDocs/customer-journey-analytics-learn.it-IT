@@ -32,7 +32,7 @@ ht-degree: 12%
 
 # Creare un segmento rapido
 
-Crea [!UICONTROL segmenti rapidi] direttamente nei tuoi [!DNL Customer Journey Analytics] progetti e ignora la complessità del [!UICONTROL Generatore di segmenti] completo. Questa funzione consente di segmentare i dati dei componenti in base a criteri semplici e di visualizzare immediatamente i risultati. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/quick-filters){target="_blank"}.
+Crea [!UICONTROL segmenti rapidi] direttamente nei tuoi [!DNL Customer Journey Analytics] progetti e ignora la complessità del [!UICONTROL Generatore di segmenti] completo. Questa funzione consente di segmentare i dati dei componenti in base a criteri semplici e di visualizzare immediatamente i risultati. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-components/cja-segments/quick-filters){target="_blank"}.
 
 >[!NOTE]
 >
