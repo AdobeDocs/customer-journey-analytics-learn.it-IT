@@ -30,4 +30,4 @@ ht-degree: 57%
 
 Durante la configurazione di una [!UICONTROL Visualizzazione dati] in Customer Journey Analytics, è possibile impostare una dimensione numerica da inserire nei bucket definiti, in modo da limitare il numero di elementi disponibili per la tabella a intervalli di numeri (molto interessante). Questo video illustra la configurazione di questa funzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412359/?captions=ita&quality=12&learn=on)

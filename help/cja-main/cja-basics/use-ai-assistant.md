@@ -33,4 +33,4 @@ Scopri in che modo l’Assistente IA in Customer Journey Analytics ti consente d
 
 Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471163/?captions=ita&learn=on)

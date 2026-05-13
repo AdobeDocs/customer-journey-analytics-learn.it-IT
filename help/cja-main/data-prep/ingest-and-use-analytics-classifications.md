@@ -46,7 +46,7 @@ ht-degree: 100%
 
 Scopri come acquisire e utilizzare i dati delle classificazioni di [!DNL Analytics] in [!DNL Customer Journey Analytics]. Quando i dati delle classificazioni saranno disponibili in [!DNL Experience Platform], aggiorna [!UICONTROL connessioni] e [!UICONTROL visualizzazioni dati] per includere i nuovi campi di classificazione da utilizzare in [!DNL Analysis Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423684/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sul connettore di origine di [!DNL Adobe Analytics] per i dati delle [!UICONTROL classificazioni], consulta la [documentazione](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=it){target="_blank"}.
 

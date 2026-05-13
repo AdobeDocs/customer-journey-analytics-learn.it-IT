@@ -41,4 +41,4 @@ Scopri come creare e pubblicare tipi di pubblico da Customer Journey Analytics a
 
 Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471281/?captions=ita&learn=on)

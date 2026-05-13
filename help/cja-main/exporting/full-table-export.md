@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Scopri la configurazione di base di consegna della tabella da Customer Journey Analytics ad AEP Data Landing Zone e Snowflake. Per ulteriori informazioni, consulta [Esportare i rapporti di Customer Journey Analytics nel cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=it){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450983/?captions=ita&learn=on)
 
 Con “esportazione tabella completa”, gli utenti possono consegnare in modo sicuro le tabelle concatenate contenenti tutte le righe di un rapporto alla propria destinazione cloud, una volta o sulla base di una programmazione regolare.  Inoltre, il nuovo gestore dei componenti di esportazione agevola la gestione di tutte le consegne.

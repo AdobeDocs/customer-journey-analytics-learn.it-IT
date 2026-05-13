@@ -28,4 +28,4 @@ ht-degree: 50%
 
 Questo video illustra le opzioni di formattazione per le metriche nella schermata [!UICONTROL component] della configurazione [!UICONTROL Data View]. Vengono inoltre forniti alcuni suggerimenti per sfruttare al meglio i [!UICONTROL componenti].
 
->[!VIDEO](https://video.tv.adobe.com/v/332806/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412365/?captions=ita&quality=12&learn=on)

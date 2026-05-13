@@ -34,4 +34,4 @@ Semplifica l’analisi utilizzando query in linguaggio naturale, visualizzazioni
 
 Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463916/?captions=ita&learn=on&enablevpops)

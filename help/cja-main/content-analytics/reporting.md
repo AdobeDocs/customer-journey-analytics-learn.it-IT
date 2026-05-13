@@ -36,4 +36,4 @@ Scopri come [!DNL Content Analytics] automatizza il tracciamento delle risorse e
 
 Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/content-analytics/report/report){target="_blank"} di Content Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473045/?captions=ita&learn=on&enablevpops)

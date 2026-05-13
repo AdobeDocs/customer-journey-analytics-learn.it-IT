@@ -37,4 +37,4 @@ ht-degree: 75%
 
 Scopri come creare un&#39;[!UICONTROL annotazione] nei tuoi [!DNL Customer Journey Analytics] progetti quando si verificano eventi come il lancio di una campagna, problemi relativi ai dati e festività. Questa funzione informa gli utenti sulle varianze metriche in tali date o intervalli di date.
 
->[!VIDEO](https://video.tv.adobe.com/v/343742/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410236/?captions=ita&quality=12&learn=on)

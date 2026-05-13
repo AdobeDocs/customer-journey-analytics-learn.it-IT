@@ -29,6 +29,6 @@ ht-degree: 13%
 
 Scopri in che modo il **coinvolgimento** in Customer Journey Analytics fornisce informazioni sulla frequenza di utilizzo delle funzionalità dei prodotti rispetto al numero di persone che le utilizzano.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447475?captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement){target="_blank"}.

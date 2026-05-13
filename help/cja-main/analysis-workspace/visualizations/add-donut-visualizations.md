@@ -29,6 +29,6 @@ ht-degree: 24%
 
 Scopri come aggiungere e configurare [!UICONTROL visualizzazioni ad anello] per [!DNL Analysis Workspace] progetti in [!DNL Customer Journey Analytics]. Questa visualizzazione è ideale per confrontare percentuali di un totale per alcuni elementi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479878/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479887/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL anello], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=it){target="_blank"}.

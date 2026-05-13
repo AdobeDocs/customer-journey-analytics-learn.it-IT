@@ -29,4 +29,4 @@ ht-degree: 53%
 
 Scopri come le visualizzazioni a linee possono illustrare meglio il significato delle metriche nel tempo. Personalizza gli assi X/Y, mostra le etichette min/max e aggiungi linee di tendenza per migliorare gli insight sui dati con Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478987/?captions=ita&learn=on&enablevpops)

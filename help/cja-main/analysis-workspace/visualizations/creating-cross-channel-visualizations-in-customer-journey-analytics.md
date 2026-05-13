@@ -35,6 +35,6 @@ ht-degree: 60%
 
 In questo video, scopri come Customer Journey Analytics ti consente di creare [!UICONTROL visualizzazioni] che includono dati da più [!UICONTROL set di dati] su più canali, inclusa l&#39;unione dei dati per [!UICONTROL visitatore].
 
->[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35850/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=it){target="_blank"}.

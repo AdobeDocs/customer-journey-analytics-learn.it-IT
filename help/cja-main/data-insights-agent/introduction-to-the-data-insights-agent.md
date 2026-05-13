@@ -38,7 +38,7 @@ Per ulteriori informazioni, rivedi la [documentazione](https://experienceleague.
 
 Informazioni sull’[!DNL Data Insights Agent] in Customer Journey Analytics. Questa soluzione basata sull’intelligenza artificiale fornisce insight istantanei e trasparenti ai marketer e agli stakeholder aziendali, eliminando ritardi e formazioni estese e liberando gli analisti per attività strategiche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463905/?captions=ita&learn=on&enablevpops)
 
 
 ## Casi d’uso dell’Agente Data Insights
@@ -55,7 +55,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Casi d’uso dell’Agente Data Insights" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Casi d’uso dell’Agente Data Insights"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463916/?captions=ita&format=jpeg&nocache=1742338375674" alt="Casi d’uso dell’Agente Data Insights"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="Utilizzo dell’Agente Data Insights" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="Utilizzo dell’Agente Data Insights"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463927/?captions=ita&format=jpeg&nocache=1742338375674" alt="Utilizzo dell’Agente Data Insights"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

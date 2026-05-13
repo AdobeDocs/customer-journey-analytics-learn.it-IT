@@ -35,4 +35,4 @@ ht-degree: 100%
 
 In questo video, scopri come creare e configurare nuove metriche come sottoinsiemi di altre metriche, e le situazioni in cui questa funzionalità si rivela molto potente nelle visualizzazioni dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/333120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412948/?captions=ita&quality=12&learn=on)

@@ -32,7 +32,7 @@ ht-degree: 8%
 
 Scopri come creare campi derivati per creare al volo manipolazioni complesse dei dati tramite un generatore di regole personalizzabile e quindi far sì che la logica si applichi retroattivamente ai loro rapporti. Questo consente di risparmiare tempo prezioso garantendo che i dati siano in un formato utilizzabile per reporting, analisi e azioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450912/?captions=ita&learn=on)
 
 Questa funzione consente di migliorare la qualità e l’accuratezza dei dati nei progetti a causa di errori o lacune nei dati.
 Esempi di casi d’uso includono:

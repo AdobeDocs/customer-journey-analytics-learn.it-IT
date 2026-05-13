@@ -33,7 +33,7 @@ ht-degree: 61%
 
 Dopo aver creato una [!UICONTROL Connessione] in Customer Journey Analytics ai [!UICONTROL set di dati] in Adobe Experience Platform, è necessario creare una [!UICONTROL Visualizzazione dati] per tale [!UICONTROL Connessione], in modo da poter utilizzare i dati in Analysis Workspace su Platform. Questo video illustra la configurazione di base di una [!UICONTROL Visualizzazione dati].
 
->[!VIDEO](https://video.tv.adobe.com/v/30186/?quality=12&enable10seconds=on&speedcontrol=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412371/?captions=ita&quality=12&enable10seconds=on&speedcontrol=on)
 
 ## Risorse aggiuntive
 
