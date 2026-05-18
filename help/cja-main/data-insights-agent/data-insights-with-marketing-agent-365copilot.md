@@ -34,4 +34,4 @@ Guarda una demo di [!DNL Adobe Marketing Agent] in [!DNL Microsoft Teams] mentre
 
 Guarda questi video per scoprire altri [flussi di lavoro di marketing](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"} supportati e [informazioni introduttive](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"} inclusi prerequisiti, accesso ai dati e autorizzazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491181/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491202/?captions=ita&learn=on&enablevpops)
