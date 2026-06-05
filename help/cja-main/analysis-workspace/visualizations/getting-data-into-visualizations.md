@@ -18,7 +18,7 @@ ht-degree: 75%
 
 # Come inserire dati nelle visualizzazioni
 
-A seconda del tipo di visualizzazione che aggiungi in Analysis Workspace, puoi inserirvi i dati in diversi modi. Questo video illustra tali metodi. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}.
+A seconda del tipo di visualizzazione che aggiungi in Analysis Workspace, puoi inserirvi i dati in diversi modi. Questo video illustra tali metodi. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491932/?learn=on&enablevpops)
 
