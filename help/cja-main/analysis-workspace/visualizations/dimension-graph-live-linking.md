@@ -26,4 +26,4 @@ ht-degree: 8%
 
 Quando aggiungi o crei una visualizzazione da un valore di dimensione, puoi selezionare diversi valori di dimensione e modificare dinamicamente il grafico, oppure bloccare la visualizzazione in modo che resti su una dimensione o posizione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492127/?captions=ita&learn=on&enablevpops)
