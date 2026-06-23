@@ -25,5 +25,5 @@ ht-degree: 0%
 Scopri come l’unione basata su grafico consente l’integrazione perfetta di più set di dati, creando una visualizzazione unificata del cliente per informazioni fruibili.
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460226/?captions=ita&learn=on&enablevpops=true)
 
