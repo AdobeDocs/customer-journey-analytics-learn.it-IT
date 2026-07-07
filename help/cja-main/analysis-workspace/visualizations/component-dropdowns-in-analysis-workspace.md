@@ -20,4 +20,4 @@ ht-degree: 46%
 
 Utilizza i menu a discesa dei componenti per scegliere da un elenco di componenti compatibili per creare le visualizzazioni. Se non trovi ciò che ti serve, puoi anche creare nuovi componenti direttamente dal menu a discesa. Per consentire casi di utilizzo più avanzati, questi spazi funzionano anche come zone di rilascio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3493204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3493210/?captions=ita&learn=on&enablevpops)
