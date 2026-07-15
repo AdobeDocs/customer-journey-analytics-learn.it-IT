@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: aefec8ff3b126154171f873cc6d386f36b8c1173
+source-git-commit: f58a7f83835ca1c821d873d2d06e1cb126af52bd
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '719'
 ht-degree: 83%
 
 ---
@@ -98,6 +98,7 @@ ht-degree: 83%
       + [Attribuzione cross-channel](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
       + [Collegamento in tempo reale di Dimension-Graph](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [Creare didascalie intelligenti](analysis-workspace/visualizations/intelligent-captions.md)
+      + [Impostazioni delle origini dati per tabelle e visualizzazioni](analysis-workspace/visualizations/cja-configure-table-and-visualization-data-source-settings.md)
       + [Aggiungere visualizzazioni dell’area](analysis-workspace/visualizations/add-area-visualizations.md)
       + [Aggiungere visualizzazioni della barra](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [Aggiungere visualizzazioni del grafico bullet](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
