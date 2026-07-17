@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f58a7f83835ca1c821d873d2d06e1cb126af52bd
+source-git-commit: 5132dba4cd27d25bfc433cf4fd8c169a35d598c5
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: '723'
 ht-degree: 83%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 83%
       + [Aggiungere visualizzazioni di mappe ad albero](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [Creare visualizzazioni sovrapposte al 100%](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [Personalizzare le legende delle visualizzazioni](analysis-workspace/visualizations/cja-customize-visualization-legends.md)
+      + [Impostare la granularità per le visualizzazioni](analysis-workspace/visualizations/cja-set-granularity-for-visualizations.md)
       + [Aggiungere previsioni alla visualizzazione](analysis-workspace/visualizations/forecasting.md)
    + Annotazioni {#annotations}
       + [Creare un’annotazione](analysis-workspace/annotations/create-an-annotation.md)
