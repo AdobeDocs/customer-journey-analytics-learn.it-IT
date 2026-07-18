@@ -22,4 +22,4 @@ Regola facilmente la modalità di visualizzazione dei dati utilizzando il selett
 
 Il video incorporato riportato di seguito illustra i passaggi necessari per utilizzare questa funzione in modo efficace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495991/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495997/?captions=ita&learn=on&enablevpops)
