@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In Impostazioni visualizzazione, puoi scegliere di aggiungere una linea di tendenza alla serie di linee per meglio evidenziare un pattern nei dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496122/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496137/?captions=ita&learn=on&enablevpops)
