@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d3821dc564d27928dc86587fcb2dd21b27b4ae1f
+source-git-commit: b6de0132276592b35e0034fa34c2870fb871645c
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '749'
 ht-degree: 81%
 
 ---
@@ -91,6 +91,8 @@ ht-degree: 81%
   + Modelli {#templates}
     + [Utilizzare i modelli](analysis-workspace/templates/use-templates.md)
     + [Creare modelli personalizzati](analysis-workspace/templates/create-custom-templates.md)
+  + Tabelle a forma libera {#freeform-tables}
+    + [Utilizzare le classificazioni in linea](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
   + Visualizzazioni {#visualizations}
     + [Come inserire dati nelle visualizzazioni](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [Menu a discesa dei componenti in Workspace](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
@@ -110,6 +112,7 @@ ht-degree: 81%
     + [Aggiungere e configurare la visualizzazione mappa](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
     + [Aggiungi visualizzazioni di riepilogo](analysis-workspace/visualizations/use-summary-visualizations.md)
     + [Aggiungere visualizzazioni di testo](analysis-workspace/visualizations/add-text-visualizations.md)
+    + [Collegamento interno o esterno al progetto](analysis-workspace/visualizations/cja-link-inside-or-outside-of-your-project.md)
     + [Aggiungere visualizzazioni a dispersione](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
     + [Aggiungere visualizzazioni di mappe ad albero](analysis-workspace/visualizations/add-treemap-visualizations.md)
     + [Creare visualizzazioni sovrapposte al 100%](analysis-workspace/visualizations/create-stacked-visualizations.md)
