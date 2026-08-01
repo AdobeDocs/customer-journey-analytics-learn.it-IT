@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Classificazioni in linea per CJA consente di apportare modifiche istantanee direttamente in Analysis Workspace aggiornando un valore in una tabella o raggruppando più valori. Questa funzione porta una piccola ma potente sezione della funzionalità Campi derivati direttamente nell’esperienza Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496552/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496558/?captions=ita&learn=on&enablevpops)
