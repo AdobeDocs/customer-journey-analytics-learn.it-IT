@@ -26,4 +26,4 @@ ht-degree: 35%
 
 Scopri come creare collegamenti interni o esterni nel progetto Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496551/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496567/?captions=ita&learn=on&enablevpops)
