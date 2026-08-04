@@ -39,6 +39,6 @@ ht-degree: 100%
 
 Scopri come creare un progetto di base per Customer Journey Analytics in Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418396/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449174/?captions=ita&learn=on&quality=12)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/perform-basic-analysis.html?lang=it){target="_blank"}.
