@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b4920cf1447f5152f24741315880e9c54b7abeb5
+source-git-commit: 48ec9badaf4fcf79721803d30098472cd345e147
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '773'
 ht-degree: 79%
 
 ---
@@ -33,6 +33,8 @@ ht-degree: 79%
   + [Utilizzo dei dati](data-prep/working-with-data-in-cja.md)
   + [Acquisire, mappare e trasformare dati Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
   + [Acquisire e utilizzare i dati delle classificazioni di Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
++ Mirroring dei dati {#data-mirror}
+  + [Sincronizza con data warehouse esterno](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + Controllo degli accessi {#access-control}
   + [Configurare le autorizzazioni](permissions/set-up-permissions.md)
 + Connessioni {#connections}
@@ -194,4 +196,3 @@ ht-degree: 79%
   + [blueprint Customer Journey Analytics](https://experienceleague.adobe.com/it/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
   + [Scenario di consolidamento dei dati comportamentali digitali](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
   + [Scenario di analisi del percorso di deviazione delle chiamate](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
-+ [Data Mirror per Customer Journey Analytics](data-mirror/cja-data-mirror-sync-external-platforms.md)
