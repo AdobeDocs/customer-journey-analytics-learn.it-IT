@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5064599b3c112221363afbd1c9e205a484f32df6
+source-git-commit: 40e587c922ab0685d10f5d23a9f5d21d6f4ef7f4
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '771'
 ht-degree: 79%
 
 ---
@@ -33,12 +33,11 @@ ht-degree: 79%
   + [Utilizzo dei dati](data-prep/working-with-data-in-cja.md)
   + [Acquisire, mappare e trasformare dati Adobe Analytics](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
   + [Acquisire e utilizzare i dati delle classificazioni di Adobe Analytics](data-prep/ingest-and-use-analytics-classifications.md)
-+ Data Mirror {#data-mirror}
-  + [Sincronizza con data warehouse esterno](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + Controllo degli accessi {#access-control}
   + [Configurare le autorizzazioni](permissions/set-up-permissions.md)
 + Connessioni {#connections}
   + [Connessione alle sorgenti dei dati di Experience Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+  + [Sincronizza con data warehouse esterno](connections/cja-data-mirror-sync-external-platforms.md)
   + [Visualizzare, risolvere i problemi e modificare le impostazioni di connessione](connections/connections-details-experience-in-cja.md)
   + [Aggiungi nuovi dati a una connessione](connections/add-past-data-to-an-existing-connection-in-cja.md)
   + [Ricerche CJA per dati di ricerca e profilo](connections/cja-lookup-data.md)
