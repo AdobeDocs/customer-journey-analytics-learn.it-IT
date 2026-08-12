@@ -21,14 +21,14 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: 19f938ab38373fe13067802478d11a0c92e10f45
+source-git-commit: a406797e1f9dff253927bf19feb85e34db3cac97
 workflow-type: tm+mt
-source-wordcount: 118
-ht-degree: 0%
+source-wordcount: 117
+ht-degree: 28%
 
 ---
 
-# Informazioni dati in secondi con [!DNL Adobe Marketing Agent] per [!DNL Microsoft 365 Copilot]
+# Approfondimenti rapidi sui dati con [!DNL Adobe Marketing Agent] per [!DNL Microsoft 365 Copilot]
 
 Guarda una demo di [!DNL Adobe Marketing Agent] in [!DNL Microsoft Teams] mentre un addetto al marketing pone domande in linguaggio naturale sui dati di analisi e ottiene visualizzazioni e dati da Customer Journey Analytics.
 
