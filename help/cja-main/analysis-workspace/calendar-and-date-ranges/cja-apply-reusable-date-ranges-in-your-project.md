@@ -29,4 +29,4 @@ ht-degree: 0%
 
 L’utilizzo di date e intervalli di date personalizzati nel prodotto può aiutarti a trovare solo le informazioni che ti servono per raccontare la tua storia. Questo video illustra alcune aree in cui puoi utilizzare gli intervalli di date nel progetto Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497171/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497179/?captions=ita&learn=on&enablevpops)
