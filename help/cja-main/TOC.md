@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e098f3b353ef0f5f6f897eb175857f7a6606876e
+source-git-commit: 8b5dcd9bb7c428b3e43e64996383fbdd535328e5
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 78%
+source-wordcount: '791'
+ht-degree: 77%
 
 ---
 
@@ -94,6 +94,7 @@ ht-degree: 78%
     + [Creare modelli personalizzati](analysis-workspace/templates/create-custom-templates.md)
   + Tabelle a forma libera {#freeform-tables}
     + [Utilizzare le classificazioni in linea](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
+    + [Esplorare le impostazioni di righe e colonne nelle tabelle a forma libera](analysis-workspace/freeform-tables/cja-explore-row-and-column-settings-in-freeform-tables.md)
   + Visualizzazioni {#visualizations}
     + [Come inserire dati nelle visualizzazioni](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [Menu a discesa dei componenti in Workspace](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
