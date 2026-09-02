@@ -39,4 +39,4 @@ ht-degree: 20%
 I segmenti identificano sottoinsiemi di visitatori o clienti in base ad attributi ed eventi, come i visitatori del sito web o il coinvolgimento con il call center. Scopri i componenti chiave del Generatore di segmenti in Customer Journey Analytics. Per ulteriori informazioni su Customer Journey Analytics, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36169/?captions=ita&quality=12&learn=on)
