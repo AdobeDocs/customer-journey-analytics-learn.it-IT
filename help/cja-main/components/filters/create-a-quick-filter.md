@@ -34,4 +34,4 @@ ht-degree: 14%
 
 Crea [!UICONTROL segmenti rapidi] direttamente nei progetti Customer Journey Analytics, senza la complessità del [!UICONTROL generatore di segmenti] completo. Questa funzione consente di segmentare i dati dei componenti in base a criteri semplici e di visualizzare immediatamente i risultati. Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-components/segments/seg-quick){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410242/?captions=ita&quality=12&learn=on)
