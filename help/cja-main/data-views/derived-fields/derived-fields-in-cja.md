@@ -9,30 +9,39 @@ last-substantial-update: 2023-06-06T00:00:00.000Z
 jira: KT-13438
 thumbnail: 3420258.jpeg
 exl-id: 0feb7cde-a97c-4c64-99c1-284beb19616a
-TQID: https://experienceleague.adobe.com/dECdDQkqqEhzLiZjVAVy2f5MN-1cYYnlJTmCPjvhJ7g
+TQID: 'https://experienceleague.adobe.com/dECdDQkqqEhzLiZjVAVy2f5MN-1cYYnlJTmCPjvhJ7g'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 feature_v2:
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+    internal-label: Components
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
+subfeature_v2:
+  - id: e1471301-a189-438e-8d48-264a8db508a6
+    internal-label: Data views
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Reporting
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 190
+source-wordcount: '190'
 ht-degree: 8%
-
 ---
-
 # Creare campi derivati in Customer Journey Analytics
 
 Scopri come creare campi derivati per creare al volo manipolazioni complesse dei dati tramite un generatore di regole personalizzabile e quindi far sì che la logica si applichi retroattivamente ai loro rapporti. Questo consente di risparmiare tempo prezioso garantendo che i dati siano in un formato utilizzabile per reporting, analisi e azioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450912/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
 
 Questa funzione consente di migliorare la qualità e l’accuratezza dei dati nei progetti a causa di errori o lacune nei dati.
 Esempi di casi d’uso includono:
