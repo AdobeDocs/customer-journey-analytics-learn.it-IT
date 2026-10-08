@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 'null'
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 46%
@@ -33,4 +33,4 @@ ht-degree: 46%
 
 Utilizza i menu a discesa dei componenti per scegliere da un elenco di componenti compatibili per creare le visualizzazioni. Se non trovi ciò che ti serve, puoi anche creare nuovi componenti direttamente dal menu a discesa. Per consentire casi di utilizzo più avanzati, questi spazi funzionano anche come zone di rilascio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3493210/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3493204/?learn=on&enablevpops)
