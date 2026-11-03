@@ -7,7 +7,7 @@ kt: 3953
 role: User, Developer, Admin, Leader
 level: Beginner
 duration: 270
-last-substantial-update: 2026-03-13T00:00:00.000Z
+last-substantial-update: 2026-03-13
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 TQID: https://experienceleague.adobe.com/2g968MenVR1quQBk-w06IcTb9WazKjvaBet6J6EmcFo
 product_v2:
@@ -36,13 +36,11 @@ topic_v2:
     internal-label: Implementation
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: 35ef29bf95a407fd58be119748e3cd45c2749d16
 workflow-type: tm+mt
-source-wordcount: 105
-ht-degree: 15%
-
+source-wordcount: '105'
+ht-degree: 23%
 ---
-
 # Introduzione a Customer Journey Analytics
 
 Adobe Customer Journey Analytics (CJA) è la soluzione di analisi di nuova generazione di Adobe basata su Adobe Experience Platform. Unisce le origini dati online e offline, come siti web, app mobili, call center, sistemi CRM e in-store, in un’unica vista incentrata sulla persona per analizzare percorsi completi di clienti su canali e dispositivi diversi. Utilizza l’interfaccia di trascinamento della selezione di Analysis Workspace per creare rapporti cross-channel a livello di evento connessi.
