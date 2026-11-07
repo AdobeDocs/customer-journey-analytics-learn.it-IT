@@ -45,6 +45,6 @@ Scopri come aggiungere e configurare visualizzazioni di [!UICONTROL riga] in [!D
 >
 >L&#39;interfaccia utente e le funzionalità di [!DNL Analysis Workspace] sono simili in [!DNL Adobe Analytics] e [!DNL Customer Journey Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507405/?captions=ita&quality=12&learn=on)
 
 Per ulteriori informazioni sulle visualizzazioni di [!UICONTROL riga], visita la [documentazione](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=it){target="_blank"}.
