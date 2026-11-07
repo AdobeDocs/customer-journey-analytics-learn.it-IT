@@ -55,4 +55,4 @@ Scopri come rispondere alle domande aziendali in modo rapido e semplice utilizza
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505754/?captions=ita&learn=on)
