@@ -13,15 +13,13 @@ product_v2:
     internal-label: Customer Journey Analytics
 source-git-commit: 1c8f07e670190a3d0e5b6b9d982157afcf6ec1d3
 workflow-type: tm+mt
-source-wordcount: 52
+source-wordcount: '52'
 ht-degree: 0%
-
 ---
-
 # Unione delle identità in Customer Journey Analytics
 
 Esplora i due tipi di unione delle identità in CJA, basata sui campi e basata su grafico, e come consentono l’analisi omnicanale.
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460011/?captions=ita&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458335/?learn=on&enablevpops=true)
 
